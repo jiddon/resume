@@ -35,10 +35,10 @@ h1:hover {
 h2 {
     color: #FFFFFF;
     background-color: #000000;
-    text-align: justify;
-    display: inline;
-    margin-bottom:30px;
-    margin-top:30px;
+    /*text-align: justify;
+    display: inline;*/
+    margin-bottom:2px;
+    margin-top:20px;
 }
 
 h3 {
@@ -46,6 +46,7 @@ h3 {
     background-color: #FFFFFF;
     text-align: center;
     font-weight: normal;
+    margin-top: -2%;
 }
 
 /*
