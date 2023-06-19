@@ -1,132 +1,72 @@
-Christophe-Marie Duquesne
+James Philip Iddon
 =========================
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+Applied physicist working on the operations and readout software development of the ATLAS IBL and pixel detectors as a CERN senior applied fellow. Extensive experience in silicon pixel detector construction, commissioning and operation. Earned PhD working on the construction, commissioning and performance measurements of the ALICE ITS2.
 
 ----
 
-Corporate Experience
---------------------
+Experience
+----------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+Since Jul 2022
+:   **Senior Applied Fellow at CERN**\
+    *Geneva, CH*
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+    - Working on the operations and DAQ development of the ATLAS pixel and IBL detectors\
+    - Created a tool monitor detector parameters over time, prompting systematic re-tunes and aiding the debugging process of problematic modules\
+    - Designed a software package to increase the flexibility of the DAQ software and increase the speed with which the on-call shifter can react to problems\
+    - Performing hardware interventions and pixel run manager shifts\
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+Oct 2017 - Jul 2022
+:   **PhD in Physics at University of Liverpool / CERN**\
+    *Liverpool, UK / Geneva, CH*
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+    My PhD was on the construction, commissioning and performance measurements of the Inner Tracking System Upgrade of ALICE at the LHC. I was employed by both the University of Liverpool and CERN. The details of my PhD are below:\
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
-
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
-
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
 
 Education
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+Oct 2017 - Jul 2022
+:   **PhD in Physics at University of Liverpool / CERN**\
+    *Liverpool, UK / Geneva, CH*
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
+    - Title: [Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC’](https://cds.cern.ch/record/2826537?ln=en)\
+    - Defended in June 2022.\
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+Spe 2013 - Jul 2017
+:   **MPHYS Physics, First Class from the University of Liverpool**\
+    *Liverpool, UK*
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+    - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’\
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
+Publications
+------------
+All publications as a member of the ALICE collaboration can be found via my Inspire ID: [1618293](https://inspirehep.net/authors/1618293).\
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
+**Relevant Publications:**\
 
-Activities and interests
-------------------------
+- ALICE ITS project, First demonstration of in-beam performance of bent Monolithic Active Pixel Sensors, Nuclear Instruments and Methods in Physics Research Section A, 2022\
+- D. Colella on behalf of the ALICE collaboration, ALICE ITS upgrade for LHC Run 3: commissioning in the laboratory, Proceedings of International Conference on Technology and Instrumentation in Particle Physics (TIPP), 2021\
+- J.P. Iddon on behalf of the ALICE collaboration, Commissioning of the new ALICE Inner Tracking System, Journal of Instrumentation, 2020\
+- A. Di Mauro on behalf of the ALICE collaboration, The new inner tracking system for the ALICE upgrade at the LHC, Nuclear Instrumentation and Methods in Physics Research Section A, 2019\
+- A. Velure on behalf of the ALICE collaboration, Integration, Commissioning and First Experience of ALICE ITS Control and Readout Electronics, Proceedings of Science, 2019\
+- M. Buckland on behalf of the ALICE collaboration, Series Production and Test of Hybrid Modules for the ALICE ITS Upgrade, Proceedings of Science, 2019\
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+External Talks
+--------------
+- Realising the ALICE ITS Upgrade, IOP Nuclear Colloquium, Remote, Nov 2021\
+- Upgrade and Commissioning of the ITS Upgrade of ALICE, INSTR’20, Novosibirsk, Feb 2020\
+- Entering the precision era of hot QCD measurements, IOP18, Glasgow, Apr 2018\
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+Skills
+------
+**Programming Languages:** Python, C++, ROOT\
+**Data visualisation:** Matplotlib, Plotly, Seaborn, Pandas, ROOT\
+**Platforms/Tools:** Linux, Git, LaTeX\
+**Communication:** Regularly presented results to international collaboration meetings\
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
 
-----
-
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> <james.philip.iddon@cern.ch> • +41 77 211 94 53
