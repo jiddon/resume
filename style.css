@@ -19,35 +19,40 @@ body {
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    color: #000000;
+    color: #FFFFFF;
+    background-color: #000000;
     text-align:center;
     margin-bottom:15px;
 }
 h1:hover {
-    background-color: #757575;
+    background-color: #000000;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
 
 /* Titles of categories */
 h2 {
-    color: #000000;
+    color: #FFFFFF;
+    background-color: #000000;
+    text-align: justify;
+    display: inline;
 }
-/* There is a bar just before each category */
 
+/*
 h2:before {
-    content: "";
+    content: " ";
     display: inline-block;
     margin-right:1%;
-    width: 16%;
-    height: 10px;
-    background-color: #9CB770;
+    width: 20%;
+    height: 20px;
+    background-color: #000000;
 }
 h2:hover {
-    background-color: #397249;
+    background-color: #000000;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
+*/
 
 
 /* Definitions */
