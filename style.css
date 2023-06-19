@@ -9,11 +9,12 @@
 
 /* Whole document */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica", Helvetica, Arial, sans-serif;
     width: 900px;
     margin: auto;
     background: #FFFFFF;
-    padding: 5px 5px 5px 5px;
+    padding: 0px 0px 0px 0px;
+    color: #404040;
 }
 
 /* Title of the resume */
@@ -22,12 +23,12 @@ h1 {
     color: #FFFFFF;
     background-color: #000000;
     text-align:center;
-    margin-bottom:15px;
+    margin-bottom:30px;
 }
 h1:hover {
     background-color: #000000;
     color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
+    text-shadow: 2px 2px 2px #333;
 }
 
 /* Titles of categories */
@@ -36,6 +37,15 @@ h2 {
     background-color: #000000;
     text-align: justify;
     display: inline;
+    margin-bottom:30px;
+    margin-top:30px;
+}
+
+h3 {
+    color: #000000;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-weight: normal;
 }
 
 /*
@@ -58,27 +68,35 @@ h2:hover {
 /* Definitions */
 dt { /*dates*/
     float: right;
-    clear: right;
+    /*clear: right;*/
     width: 21%;
     /*font-weight: bold;*/
+    margin-right: -3.5%;
 }
 dd {
     margin-left: 0%;
+    /*margin-right: 5%;*/
+    text-align: justify;
+    text-justify: inter-word;
+
 }
 p {
     margin-top:0;
     margin-bottom:7px;
+    margin-left: 0%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 /* Blockquotes */
 blockquote {
-    text-align: center
+    text-align: center;
 }
 
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    color: #0645AD;
 }
 a:hover, a:active {
     background-color: #397249;
