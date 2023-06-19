@@ -1,21 +1,21 @@
-# James Philip Iddon
+# Dr. James Philip Iddon
 ### <james.philip.iddon@cern.ch> • +41 77 211 94 53 • [linkedin](https://www.linkedin.com/in/j-p-iddon)
 
-Applied physicist working on the operations and readout software development of the ATLAS IBL and pixel detectors as a CERN senior applied fellow. Extensive experience in silicon pixel detector construction, commissioning and operation. Earned PhD working on the construction, commissioning and performance measurements of the ALICE ITS2.
+Applied physicist working on the operations and readout software development of the [ATLAS](https://atlas.cern/) IBL and pixel detectors as a CERN senior applied fellow. Extensive experience in silicon pixel detector construction, commissioning and operation. Earned PhD working on the construction, commissioning and performance measurements of the [ALICE](https://alice-collaboration.web.cern.ch/) ITS2.
 
 ## Experience
 
 Jul 2022 - present
 :   **Senior Applied Fellow**\
-    *CERN - Geneva, CH*
+    *[CERN](https://home.cern/) - Geneva, CH*
 
-    Working on the operations and DAQ development of the ATLAS pixel and IBL detectors. Created a tool to monitor detector parameters over time, prompting systematic re-tunes and aiding the debugging process of problematic modules. Designed a software package to increase the flexibility of the DAQ software and increase the speed with which the on-call shifter can react to problems. Performing hardware interventions and pixel run manager shifts. Currently Deputy Pixel Run Coordinator.\
+    Working on the operations and DAQ development of the ATLAS [pixel and IBL detectors](https://atlas.cern/Discover/Detector/Inner-Detector). Created a tool to monitor detector parameters over time, prompting systematic re-tunes and aiding the debugging process of problematic modules. Designed a software package to increase the flexibility of the DAQ software and increase the speed with which the on-call shifter can react to problems. Performing hardware interventions and pixel run manager shifts. Currently Deputy Pixel Run Coordinator.\
 
 Oct 2017 - Jul 2022
 :   **PhD in Physics**\
     *University of Liverpool / CERN*
 
-    Work concerned the construction, commissioning and performance measurements of the Inner Tracking System Upgrade of ALICE at the LHC. Employed by both the University of Liverpool (2 years) and CERN (2.5 years). Involved in the construction and characterisation of silicon detector modules and staves made of Monolithic Active Pixel Sensors in University of Liverpool / Daresbury Laboratory clean rooms. Wrote the testing software for the fully integrated tracking system at CERN and verified its performance before installation around the LHC beam pipe. Gathered the first real particle tracks and made the first measurement of the detection efficiency.
+    Work concerned the construction, commissioning and performance measurements of the [Inner Tracking System Upgrade of ALICE](https://cerncourier.com/a/alice-tracks-new-territory/) at the LHC. Employed by both the University of Liverpool (2 years) and CERN (2.5 years). Involved in the construction and characterisation of silicon detector modules and staves made of Monolithic Active Pixel Sensors in University of Liverpool / Daresbury Laboratory clean rooms. Wrote the testing software for the fully integrated tracking system at CERN and verified its performance before installation around the LHC beam pipe. Gathered the first real particle tracks and made the first measurement of the detection efficiency.
 
 Sep 2014 - Sep 2015
 :   **Hitch Representitive**\
@@ -30,7 +30,7 @@ Oct 2017 - Jul 2022
 :   **PhD in Physics**\
     *University of Liverpool / CERN*
 
-    ['Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC’](https://cds.cern.ch/record/2826537?ln=en). Defended in June 2022.\
+    ['Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC’](https://cds.cern.ch/record/2826537?ln=en). Defended in June 2022. Shortlisted for ALICE thesis award.\
 
 Sep 2013 - Jul 2017
 :   **MPHYS Physics, First Class**\
