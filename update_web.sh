@@ -14,5 +14,5 @@ echo "</html>" >> index.html
 
 git add index.html style.css jpi_cv.pdf jpi_cv.txt
 git commit -m "Update"
-git push origin main
+git push
 cd -
