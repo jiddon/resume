@@ -1,7 +1,7 @@
 # Dr. James Philip Iddon
 ### <james.philip.iddon@cern.ch> • +41 77 211 94 53 • [linkedin](https://www.linkedin.com/in/j-p-iddon)
 
-Applied physicist working on the operations and readout software development of the [ATLAS](https://atlas.cern/) IBL and pixel detectors as a CERN senior applied fellow. Extensive experience in silicon pixel detector construction, commissioning and operation. Earned PhD working on the construction, commissioning and performance measurements of the [ALICE](https://alice-collaboration.web.cern.ch/) ITS2.
+Applied physicist working on the operations and readout software development of the [ATLAS](https://atlas.cern/) IBL and pixel detectors as a CERN senior applied fellow. Over 5 years experience in silicon pixel detector construction, commissioning and operation. Earned PhD working on the construction, commissioning and performance measurements of the [ALICE](https://alice-collaboration.web.cern.ch/) ITS2.
 
 ## Experience
 
@@ -11,19 +11,27 @@ Jul 2022 - present
 :   **Senior Applied Fellow**\
     *[CERN](https://home.cern/) - Geneva, CH*
 
-    >Working on the operations and DAQ development of the ATLAS [pixel and IBL detectors](https://atlas.cern/Discover/Detector/Inner-Detector). Created a tool to monitor detector parameters over time, prompting systematic re-tunes and aiding the debugging process of problematic modules. Designed a software package to increase the flexibility of the DAQ software and increase the speed with which the on-call shifter can react to problems. Performing hardware interventions and pixel run manager shifts. Currently Deputy Pixel Run Coordinator.\
+    - Working on the operations and DAQ development of the ATLAS [pixel and IBL detectors](https://atlas.cern/Discover/Detector/Inner-Detector), maximising acquisition of quality data from the 24/7 LHC running schedule by minimising dead time to below 0.1%.
+    - Debugging and fixing detector modules with electrical, software, configuration or radiation-damaged-induced problems.
+    - Designed a software package to increase the flexibility of the DAQ software and increase the speed with which the on-call shifter can react to problems.
+    - Performing hardware interventions and Pixel Run Manager shifts. On-call detector expert.
+    - Currently Pixel Deputy Run Coordinator (6 month position).\
 
 Oct 2017 - Jul 2022
 :   **PhD in Physics**\
     *University of Liverpool / CERN*
 
-    >Work concerned the construction, commissioning and performance measurements of the [Inner Tracking System Upgrade of ALICE](https://cerncourier.com/a/alice-tracks-new-territory/) at the LHC. Employed by both the University of Liverpool (2 years) and CERN (2.5 years). Involved in the construction and characterisation of silicon detector modules and staves made of Monolithic Active Pixel Sensors in University of Liverpool / Daresbury Laboratory clean rooms. Wrote the testing software for the fully integrated tracking system at CERN and verified its performance before installation around the LHC beam pipe. Gathered the first real particle tracks and made the first measurement of the detection efficiency.
+    - Work concerned with the construction, commissioning and performance measurements of the [Inner Tracking System Upgrade of ALICE](https://cerncourier.com/a/alice-tracks-new-territory/) at the LHC, the largest and most granular Monolithic Active Pixel Sensor (MAPS) tracking detector ever built.
+    - Employed by both the University of Liverpool (2 years) and CERN (2.5 years).
+    - Constructed and tested MAPS detector modules and staves in The University of Liverpool and Daresbury Laboratory clean rooms, with a 98% yield.
+    - Wrote the testing software for the fully integrated tracking system at CERN and verified the performance of its 13 billion channels before installation around the LHC beam pipe.
+    - Gathered the first real particle tracks (5 million cosmic muons) and used these to make the first measurement of the detection efficiency.
 
 Sep 2014 - Sep 2015
-:   **Hitch Representitive**\
+:   **Hitch Representative**\
     *Link Community Development*
 
-    >Leader of the Hitch charity scheme in Liverpool
+    - Leader of the Hitch charity scheme in Liverpool, helping 6 teams raise funding for Link Community Development by hitchhiking from Liverpool to Morocco.
 
 
 ## Education
@@ -34,26 +42,31 @@ Oct 2017 - Jul 2022
 :   **PhD in Physics**\
     *University of Liverpool / CERN*
 
-    >Title: [Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC](https://cds.cern.ch/record/2826537?ln=en). Defended in June 2022. Shortlisted for ALICE thesis award.\
+    - Title: [Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC](https://cds.cern.ch/record/2826537?ln=en).
+    - Defended in June 2022. Shortlisted for ALICE thesis award.\
 
 Sep 2013 - Jul 2017
-:   **MPHYS Physics, First Class**\
+:   **MPHYS Physics**\
     *University of Liverpool*
 
-    >Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’\
+    - First Class
+    - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’.\
 
 Sep 2011 - Jul 2013
 :    **A Levels**\
      *Clitheroe Royal Grammar School Sixth Form*
 
-     >Physics (A), Mathematics (A), Chemistry (B), General Studies (B). Peter Liver Prize for Physics.\   
+     - Physics (A), Mathematics (A), Chemistry (B), General Studies (B).
+     - Peter Liver Prize for Physics.\   
+
+<div style="page-break-after: always;"></div>
 
 ## Publications
 
 ---
 
 \
-All publications as a member of the ALICE collaboration can be found via my Inspire ID: [1618293](https://inspirehep.net/authors/1618293).\
+All publications as an ALICE and ATLAS author can be found via my Inspire ID: [1618293](https://inspirehep.net/authors/1618293).\
 
 **Relevant Publications:**\
 
@@ -78,15 +91,8 @@ All publications as a member of the ALICE collaboration can be found via my Insp
 ---
 
 \
-**Programming Languages:** Python, C++, ROOT\
-**Data visualisation:** Matplotlib, Plotly, Seaborn, Pandas, ROOT\
-**Platforms/Tools:** Linux, Git, LaTeX\
-**Communication:** Regularly presented results to international collaboration meetings\
-
-## References
-
----
-
-\
-**Prof. Marielle Chartier:** [M.Chartier@liverpool.ac.uk](M.Chartier@liverpool.ac.uk), Primary PhD supervisor\
-**Dr. Felix Reidt:** [Felix.Reidt@cern.ch](Felix.Reidt@cern.ch), PhD supervisor at CERN\
+**Key skills**: Silicon chip characterisation • DAQ system development • Debugging • Software • Hardware • Technical writing • Data analysis\
+**Programming Languages:** Python • C++\
+**Data visualisation:** Matplotlib • Plotly • Seaborn • Pandas • ROOT\
+**Platforms/Tools:** Linux • Git • LaTeX • Markdown\
+**Communication:** Regularly present results to international collaboration meetings\
