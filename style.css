@@ -13,6 +13,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
     width: 100%;
+    initial-scale: 1.0;
     margin: auto;
     background: #FFFFFF;
     padding: 14px 14px 14px 14px;
