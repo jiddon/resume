@@ -8,13 +8,26 @@
  */
 
 /* Whole document */
+/* For mobile phones: */
+
 body {
     font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
-    width: 80%;
+    width: 100%;
     margin: auto;
     background: #FFFFFF;
-    padding: 20px 20px 20px 20px;
     color: #404040;
+}
+
+/* For desktop: */
+@media only screen and (min-width: 768px) {
+    body {
+	font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
+	width: 50%;
+	margin: auto;
+	background: #FFFFFF;
+	padding: 20px 20px 20px 20px;
+	color: #404040;
+    }
 }
 
 /* Title of the resume */
@@ -73,11 +86,13 @@ h2:hover {
 dt { /*dates*/
     float: right;
     /*clear: right;*/
-    width: 21%;
+    /*width: 21%;*/
     /*font-weight: bold;*/
-    margin-right: -3.5%;
+    margin-right: 19px;
+    margin-top: 10px;
 }
 dd {
+    margin-top: 10px;
     margin-left: 0%;
     /*margin-right: 5%;*/
     text-align: justify;
