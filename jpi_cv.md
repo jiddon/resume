@@ -18,7 +18,7 @@ Jul 2022 - present
     - Created a tool to monitor detector parameters over time, prompting systematic re-tunes and aiding the debugging process of problematic modules.
     - Debugged and fixed detector modules with electrical, software, configuration or radiation-damaged-induced problems.
     - Performed Pixel Run Manager shifts and act as an on-call detector expert.
-    - Currently Pixel Deputy Run Coordinator (6 month position).\
+    - **Positions held:** Pixel Deputy Run Coordinator (Apr 2023 - Oct 2023)\
 
 Oct 2017 - Jul 2022
 :   **PhD in Physics**\
@@ -28,7 +28,8 @@ Oct 2017 - Jul 2022
     - Constructed and tested MAPS detector modules and staves in The University of Liverpool and Daresbury Laboratory clean rooms with a 98% yield.
     - Wrote the testing software for the fully integrated tracking system at CERN and verified the performance of its 13 billion channels before installation around the LHC beam pipe.
     - Gathered the first real particle tracks (5 million cosmic muons) and used these to make the first measurement of the detection efficiency, verifying the capability of the final system.
-    - Employed by both the University of Liverpool (2 years) and CERN (2.5 years).
+    - Employed by both the University of Liverpool (2 years) and CERN (~2.5 years).
+    - **Positions held**:  Visiting PhD Candidate at Daresbury Laboratory (Jan 2018 - Apr 2019), CERN Doctoral Student (Apr 2019 - July 2021).\
 
 Sep 2014 - Sep 2015
 :   **Hitch Representative**\
@@ -65,8 +66,6 @@ Sep 2013 - Jul 2017
 
     - First Class
     - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’.\
-
-Sep 2011 - Jul 2013
 
 
 ## Publications
