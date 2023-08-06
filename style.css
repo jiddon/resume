@@ -15,6 +15,7 @@ body {
     width: 100%;
     margin: auto;
     background: #FFFFFF;
+    padding: 14px 14px 14px 14px;
     color: #404040;
 }
 
@@ -88,7 +89,6 @@ dt { /*dates*/
     /*clear: right;*/
     /*width: 21%;*/
     /*font-weight: bold;*/
-    margin-right: 19px;
     margin-top: 10px;
 }
 dd {
