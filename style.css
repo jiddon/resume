@@ -8,11 +8,10 @@
  */
 
 /* Whole document */
-/* For mobile phones: */
-
+/* For mobile phones AND pdf: */
 body {
     font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
-    width: 100%;
+    width: 90%;
     initial-scale: 1.0;
     margin: auto;
     background: #FFFFFF;
