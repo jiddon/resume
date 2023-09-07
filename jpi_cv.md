@@ -12,25 +12,23 @@ Applied physicist working on the operations and readout software development of 
 Jul 2022 - present
 :   **Senior Applied Fellow (Detector Operations)**\
     *[CERN](https://home.cern/) - Geneva, CH*
-
-    - Responsible for operations and DAQ development of the ATLAS [pixel and IBL detectors](https://atlas.cern/Discover/Detector/Inner-Detector), maximising acquisition of quality data from the 24/7 LHC running schedule by minimising dead time to below 0.1%.
+    - **Positions held:** Pixel Deputy Run Coordinator (Apr 2023 - Oct 2023)\
+    - Responsible for the operation and DAQ development of the ATLAS [pixel and IBL detectors](https://atlas.cern/Discover/Detector/Inner-Detector), maximising acquisition of quality data from the 24/7 LHC running schedule by minimising dead time to below 0.1%.
+    - On-call detector expert
     - Designed a software package to increase the flexibility of the DAQ software and increase the speed with which detector experts can react to problems.
     - Created a tool to monitor detector parameters over time, prompting systematic re-tunes and aiding the debugging process of problematic modules.
-    - Debugged and fixed detector modules with electrical, software, configuration or radiation-damaged-induced problems.
-    - Performed Pixel Run Manager shifts and act as an on-call detector expert.
-    - **Positions held:** Pixel Deputy Run Coordinator (Apr 2023 - Oct 2023)\
+    - Debugged and fixed detector modules with electrical, software, configuration or radiation-damaged-induced problems
 
 Oct 2017 - Jul 2022
 :   **PhD in Physics**\
     *University of Liverpool / CERN*
-
+    
+    - **Positions held**:  Visiting PhD Candidate at Daresbury Laboratory (Jan 2018 - Apr 2019), CERN Doctoral Student (Apr 2019 - July 2021).\
     - Work concerned with the construction, commissioning and performance measurements of the [Inner Tracking System Upgrade of ALICE](https://cerncourier.com/a/alice-tracks-new-territory/) at the LHC, the largest and most granular Monolithic Active Pixel Sensor (MAPS) tracking detector ever built.
     - Constructed and tested MAPS detector modules and staves in The University of Liverpool and Daresbury Laboratory clean rooms with a 98% yield.
     - Wrote the testing software for the fully integrated tracking system at CERN and verified the performance of its 13 billion channels before installation around the LHC beam pipe.
     - Gathered the first real particle tracks (5 million cosmic muons) and used these to make the first measurement of the detection efficiency, verifying the capability of the final system.
-    - Employed by both the University of Liverpool (2 years) and CERN (~2.5 years).
-    - **Positions held**:  Visiting PhD Candidate at Daresbury Laboratory (Jan 2018 - Apr 2019), CERN Doctoral Student (Apr 2019 - July 2021).\
-
+   
 Sep 2014 - Sep 2015
 :   **Hitch Representative**\
     *Link Community Development*
@@ -42,10 +40,10 @@ Sep 2014 - Sep 2015
 ---
 
 \
-**Key skills**: Silicon chip characterisation • DAQ system development • Debugging • Software • Hardware • Technical writing • Data analysis\
-**Programming Languages:** Python • C++\
+**Key skills**: Operations • Coordination •  Silicon chip characterisation • DAQ system development • Software • Hardware • Technical writing • Data analysis\
+**Programming Languages:** Python • C++ • Bash • html • CSS\
 **Data visualisation:** Matplotlib • Plotly • Seaborn • Pandas • ROOT\
-**Platforms/Tools:** Linux • Git • LaTeX • Markdown\
+**Platforms/Tools:** Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown\
 
 ## Education
 
