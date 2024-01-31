@@ -1,0 +1,3 @@
+- CV written in markdown
+- pandoc to convert md to html, pdf and txt with style.css file specifying formatting
+- push to github pages: [jiddon.github.io](jiddon.github.io)
