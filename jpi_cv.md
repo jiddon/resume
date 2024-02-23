@@ -3,7 +3,7 @@
 # Dr. James Philip Iddon
 ### <james.philip.iddon@cern.ch> • +41 77 211 94 53 • [linkedin](https://www.linkedin.com/in/j-p-iddon)
 
-Instrumentation physicist working on the operations and readout software development of the [ATLAS](https://atlas.cern/) Pixel detector as a CERN Senior Applied Fellow. Over 6 years experience in silicon pixel detector construction, commissioning and operation. Earned PhD working on the construction, commissioning and first performance measurements of the [ALICE](https://alice-collaboration.web.cern.ch/) ITS2.
+Instrumentation Physicist working on the operations and readout software development of the [ATLAS](https://atlas.cern/) Pixel detector as a CERN Senior Applied Fellow. Over 6 years experience in silicon pixel detector construction, commissioning and operation. Earned PhD working on the construction, commissioning and first performance measurements of the [ALICE](https://alice-collaboration.web.cern.ch/) ITS2.
 
 ## Professional Experience
 
@@ -14,9 +14,9 @@ Jul 2022 - present
     *[CERN](https://home.cern/) - Geneva, CH*
 
     - **Positions held:** Pixel Run Coordinator (Oct 2023 - present), Pixel Deputy Run Coordinator (Apr 2023 - Oct 2023)\
-    - Coordinate the operation of the ATLAS Pixel detector.
-    - Responsible for the operation and DAQ development of the [ATLAS Pixel detector](https://atlas.cern/Discover/Detector/Inner-Detector), maximising acquisition of quality data from the 24/7 LHC running schedule by minimising dead time to below 0.3%.
+        - Responsible for the coordination of the operations of the [ATLAS Pixel detector](https://atlas.cern/Discover/Detector/Inner-Detector).
     - On-call detector expert.
+    - Development of the data aquisition system, with the goal of maximising physics data from the 24/7 LHC running schedule by minimising dead time to below 0.3%.
     - Designed a software package to increase the flexibility of the DAQ software and increase the speed with which detector experts can react to problems.
     - Created a tool to monitor detector parameters over time, prompting systematic re-tunes and aiding the debugging process of problematic modules.
     - Debugged and fixed detector modules with electrical, software, configuration or radiation-damaged-induced problems.
@@ -30,24 +30,6 @@ Oct 2017 - Jul 2022
     - Constructed and tested novel CMOS MAPS detector modules and staves in The University of Liverpool and Daresbury Laboratory clean rooms with a 98% yield.
     - Wrote the testing software for the fully integrated tracking system at CERN and verified the performance of its 13 billion channels before installation around the LHC beam pipe.
     - Gathered the first real particle tracks (5 million cosmic muons) and used these to make the first measurement of the detection efficiency, verifying the capability of the final system.
-   
-Sep 2014 - Sep 2015
-:   **Hitch Representative**\
-    *Link Community Development*
-
-    - Leader of the Hitch charity scheme in Liverpool, helping 6 teams raise funding for Link Community Development by hitchhiking from Liverpool to Morocco.
-
-## Skills
-
----
-
-\
-**Key skills**: Operations • Coordination •  Silicon chip characterisation • DAQ system development • Software • Hardware • Technical writing • Data analysis\
-**Programming Languages:** Python • C++ • Bash\
-**Data visualisation:** Matplotlib • Plotly • Seaborn • Pandas • ROOT\
-**Platforms/Tools:** Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html\
-
-<div style="page-break-after: always;"></div>
 
 ## Education
 
@@ -67,6 +49,15 @@ Sep 2013 - Jul 2017
     - Grade: First Class
     - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.\
 
+## Skills
+
+---
+
+\
+**Key skills**: Operations • Coordination •  Silicon chip characterisation • DAQ system development • Software • Hardware • Technical writing • Data analysis\
+**Programming Languages:** Python • C++ • Bash\
+**Data visualisation:** Matplotlib • Plotly • Seaborn • Pandas • ROOT\
+**Platforms/Tools:** Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html\
 
 ## Publications
 
