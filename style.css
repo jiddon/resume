@@ -8,7 +8,6 @@
  */
 
 /* Whole document */
-/* For mobile phones AND pdf: */
 body {
     font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
     width: 90%;
@@ -18,41 +17,15 @@ body {
     padding: 14px 14px 14px 14px;
     color: #404040;
 }
-
-/* For desktop: */
-@media only screen and (min-width: 768px) {
-    body {
-	font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
-	width: 50%;
-	margin: auto;
-	background: #FFFFFF;
-	padding: 20px 20px 20px 20px;
-	color: #404040;
-    }
-}
-
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    /*color: #FFFFFF;
-    background-color: #000000;*/
     text-align:center;
     margin-bottom:30px;
 }
 
-/*h1:hover {
-    background-color: #000000;
-    color: #FFFFFF;
-    text-shadow: 2px 2px 2px #333;
-}*/
-
 /* Titles of categories */
 h2 {
-    /*color: #FFFFFF;
-    background-color: #000000;*/
-    
-    /*text-align: justify;
-    display: inline;*/
     margin-bottom:2px;
     margin-top:20px;
 }
@@ -63,41 +36,48 @@ h3 {
     background-color: #FFFFFF;
     text-align: center;
     font-weight: normal;
-    /*margin-top: -2%;*/
 }
 
-/*
-h2:before {
-    content: " ";
-    display: inline-block;
-    margin-right:1%;
-    width: 20%;
-    height: 20px;
-    background-color: #000000;
+/* For pdf */
+@media print {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        width: 95%;
+        initial-scale: 1.0;
+        margin: auto;
+        background: #FFFFFF;
+        padding: 14px 14px 14px 14px;
+        color: #404040;
+    }
+    h1 {
+        font-size: 40px;
+    }
 }
-h2:hover {
-    background-color: #000000;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
+
+/* For desktop: */
+@media screen and (min-width: 768px) {
+    body {
+	    font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
+	    width: 50%;
+	    margin: auto;
+	    background: #FFFFFF;
+	    padding: 20px 20px 20px 20px;
+	    color: #404040;
+    }
 }
-*/
 
 
 /* Definitions */
 dt { /*dates*/
     float: right;
-    /*clear: right;*/
-    /*width: 21%;*/
-    /*font-weight: bold;*/
     margin-top: 10px;
 }
 dd {
     margin-top: 10px;
     margin-left: 0%;
-    /*margin-right: 5%;*/
     text-align: justify;
     text-justify: inter-word;
-
 }
 p {
     margin-top:0;
@@ -105,11 +85,6 @@ p {
     margin-left: 0%;
     text-align: justify;
     text-justify: inter-word;
-}
-
-/* Blockquotes */
-blockquote {
-    /*text-align: center;*/
 }
 
 /* Links */
