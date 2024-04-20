@@ -11,7 +11,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
     width: 90%;
-    initial-scale: 1.0;
     margin: auto;
     background: #FFFFFF;
     padding: 14px 14px 14px 14px;
@@ -38,53 +37,30 @@ h3 {
     font-weight: normal;
 }
 
-/* For pdf */
-@media print {
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 12px;
-        width: 95%;
-        initial-scale: 1.0;
-        margin: auto;
-        background: #FFFFFF;
-        padding: 14px 14px 14px 14px;
-        color: #404040;
-    }
-    h1 {
-        font-size: 40px;
-    }
-}
-
-/* For desktop: */
-@media screen and (min-width: 768px) {
-    body {
-	    font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
-	    width: 50%;
-	    margin: auto;
-	    background: #FFFFFF;
-	    padding: 20px 20px 20px 20px;
-	    color: #404040;
-    }
-}
-
-
-/* Definitions */
 dt { /*dates*/
     float: right;
     margin-top: 10px;
 }
+
 dd {
     margin-top: 10px;
     margin-left: 0%;
     text-align: justify;
     text-justify: inter-word;
 }
+
 p {
     margin-top:0;
     margin-bottom:7px;
     margin-left: 0%;
     text-align: justify;
     text-justify: inter-word;
+}
+
+blockquote {
+    margin-top:0;
+    margin-bottom:7px;
+    text-align: center;
 }
 
 /* Links */
@@ -104,3 +80,35 @@ a:hover, a:active {
 hr {
     color: #A6A6A6;
 }
+
+/* For pdf */
+@media print {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:13px;
+        width: 95%;
+        background: #FFFFFF;
+        color: #404040;
+    }
+    h1 {
+        font-size: 40px;
+        margin-bottom:10px;
+        margin-top:-50px;
+    }
+    h3 {
+        font-size:14px;
+    }
+}
+
+/* For desktop: */
+@media screen and (min-width: 768px) {
+    body {
+	    font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
+	    width: 50%;
+	    margin: auto;
+	    background: #FFFFFF;
+	    padding: 20px 20px 20px 20px;
+	    color: #404040;
+    }
+}
+

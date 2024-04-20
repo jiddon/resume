@@ -3,7 +3,7 @@
 # James Philip Iddon
 ### <james.philip.iddon@cern.ch> • +41 77 211 94 53 • [linkedin](https://www.linkedin.com/in/j-p-iddon)
 
-Applied physicist working the [ATLAS](https://atlas.cern/) Pixel detector as a CERN Senior Applied Fellow. Over 7 years experience within the field of silicon pixel tracking detectors for HEP experiments, specifically construction, system testing, commissioning and operation.
+> Applied physicist working the [ATLAS](https://atlas.cern/) Pixel detector as a CERN Senior Applied Fellow. Over 7 years experience within the field of silicon pixel tracking detectors for HEP experiments, specifically construction, system testing, commissioning and operation.
 
 ## Professional Experience
 
@@ -56,6 +56,8 @@ Sep 2013 - Jul 2017
 **Programming Languages:** Python • C++ • Bash\
 **Data visualisation:** Matplotlib • Plotly • Seaborn • Pandas • ROOT\
 **Platforms/Tools:** Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html • WinCC\
+
+<div style="page-break-after: always;"></div>
 
 ## Publications
 
