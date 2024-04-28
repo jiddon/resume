@@ -9,11 +9,17 @@ cd ../jiddon.github.io/
 head -n -2 jpi_cv.html > index.html # remove </body> and </html>
 rm jpi_cv.html
 echo "<hr />" >> index.html
-echo "<h3 id="view-in-pdf-txt">View in <a href="./jpi_cv.pdf">pdf</a>, <a href="./jpi_cv.txt">txt</a></h3>" >> index.html
+echo "<h3 id="view-in-pdf-txt">View in <a href="./jpi_cv.pdf">pdf</a>, <a href="./jpi_cv.txt">txt</a>, <a href="https://github.com/jiddon/resume">github</a></h3> " >> index.html
 echo "</body>" >> index.html
 echo "</html>" >> index.html
+echo "./jiddon.github.io/ updated"
 
-git add index.html style.css jpi_cv.pdf jpi_cv.txt
-git commit -m "Update"
-git push
-cd -
+if [[ $# == 1 && $1 == "push" ]]; then
+  git add index.html style.css jpi_cv.pdf jpi_cv.txt
+  git commit -m "Update"
+  git push
+else
+  echo "Specify push to push to github pages."
+fi
+
+cd - > /dev/null
