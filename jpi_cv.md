@@ -23,7 +23,7 @@ Jul 2022 - present
 
     - Coordinated operations for the ATLAS Pixel detector, ensuring maximum uptime and detector safety to support 24/7 LHC data acquisition. 
     - Developed and maintained data acquisition software (C++ / Python) with continuous integration testing, enhancing system responsiveness.
-    - Designed and implemented a software package to improve DAQ software flexibility, facilitating faster problem resolution by detector experts.
+- Designed and implemented a software package to improve DAQ software flexibility, facilitating faster problem resolution by detector experts.
     - Management and training of 24/7 shift crew • On-call detector expert • Organisation of weekly meetings • Representation of the group in daily ATLAS meetings.
     - Held key positions: Pixel Run Coordinator (Oct 2023 - Present), Pixel Deputy Run Coordinator (Apr 2023 - Oct 2023).
 
@@ -36,7 +36,7 @@ Oct 2017 - Jul 2022
     - Developed system testing software (Python) for the fully integrated tracking system at CERN, verifying the performance of 13 billion channels.
     - Conducted the first measurement of detection efficiency using 5 million cosmic muon tracks, confirming system capabilities.
 
-## Education
+## Qualifications
 
 ---
 
@@ -54,3 +54,4 @@ Sep 2013 - Jul 2017
     - Grade: First Class
     - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.\
 
+A Levels: Maths (A), Physics (A), Chemistry (B) • 11 GCSEs B or higher • Full driving licence 
