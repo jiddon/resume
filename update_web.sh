@@ -14,6 +14,7 @@ cd ../jiddon.github.io/
 
 if [[ $# == 1 && $1 == "push" ]]; then
   git add files/jpi_cv.pdf 
+  git add _pages/cv_txt.md
   git commit -m "Update cv"
   git push
 else
