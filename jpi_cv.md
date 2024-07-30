@@ -21,27 +21,27 @@ Jul 2022 - present
 :   **Senior Applied Fellow (Detector Operations)**\
     *CERN - Geneva, CH*
 
-    - Coordinated operations for the ATLAS Pixel detector, ensuring maximum uptime and detector safety to support 24/7 LHC data acquisition. 
-    - Developed and maintained data acquisition software (C++ / Python) with continuous integration testing, enhancing system responsiveness.
-    - Designed and implemented a software package to improve DAQ software flexibility, facilitating faster problem resolution by detector experts.
-    - Management and training of 24/7 shift crew • On-call detector expert • Organisation of weekly meetings • Representation of the group in daily ATLAS meetings.
-    - Held key positions: Pixel Run Coordinator (Oct 2023 - Present), Pixel Deputy Run Coordinator (Apr 2023 - Oct 2023).
+- Coordinated operations for the ATLAS Pixel detector, ensuring maximum uptime and detector safety to support 24/7 LHC data acquisition. 
+- Developed and maintained data acquisition software (C++ / Python) with continuous integration testing, enhancing system responsiveness.
+- Designed and implemented a software package to improve DAQ software flexibility, facilitating faster problem resolution by detector experts.
+- Management and training of 24/7 shift crew • On-call detector expert • Organisation of weekly meetings • Representation of the group in daily ATLAS meetings.
+- Held key positions: Pixel Run Coordinator (Oct 2023 - Present), Pixel Deputy Run Coordinator (Apr 2023 - Oct 2023).
 
 Oct 2017 - Jul 2022
 :   **Doctoral Researcher**\
     *University of Liverpool / CERN*
     
-    - Construction, commissioning, and performance measurement of the ALICE Inner Tracking System Upgrade, the largest Monolithic Active Pixel Sensor (MAPS) tracking detector ever built.
-    - Achieved a 98% yield in constructing and testing novel CMOS MAPS detector modules and staves in clean rooms at the University of Liverpool and Daresbury Laboratory.
-    - Developed system testing software (Python) for the fully integrated tracking system at CERN, verifying the performance of 13 billion channels.
-    - Conducted the first measurement of detection efficiency using 5 million cosmic muon tracks, confirming system capabilities.
+- Construction, commissioning, and performance measurement of the ALICE Inner Tracking System Upgrade, the largest Monolithic Active Pixel Sensor (MAPS) tracking detector ever built.
+- Achieved a 98% yield in constructing and testing novel CMOS MAPS detector modules and staves in clean rooms at the University of Liverpool and Daresbury Laboratory.
+- Developed system testing software (Python) for the fully integrated tracking system at CERN, verifying the performance of 13 billion channels.
+- Conducted the first measurement of detection efficiency using 5 million cosmic muon tracks, confirming system capabilities.
 
 ## Education
 
 ---
 
 Oct 2017 - Jul 2022
-:   **PhD in Physics**\
+:   **PhD in Applied Physics**\
     *University of Liverpool / CERN*
 
     - Title: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC.\
@@ -53,5 +53,4 @@ Sep 2013 - Jul 2017
 
     - Grade: First Class
     - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.\
-
 
