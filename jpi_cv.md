@@ -1,7 +1,7 @@
 <base target="_blank">
 
 # James Philip Iddon
-### <james.philip.iddon@cern.ch> • +41 77 211 94 53 • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) 
+### <james.philip.iddon@cern.ch> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) 
 
 > Applied Physicist with over 7 years of experience in high-energy physics experiments and advanced silicon technology. Proven track record in the research, development, construction, and commissioning of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and coordination of detector operations.
 
