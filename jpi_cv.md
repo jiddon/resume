@@ -3,7 +3,47 @@
 # James Philip Iddon
 ### <james.philip.iddon@cern.ch> • +41 77 211 94 53 • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) 
 
-> Applied Physicist with over 7 years of experience in high-energy physics experiments and advanced detector technology. Proven track record in the research, development, construction, and commissioning of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and detector operations. 
+> Applied Physicist with over 7 years of experience in high-energy physics experiments and advanced detector technology. Adept in software development, data acquisition systems, and operations coordination. Known for strong problem-solving skills, technical expertise, and leadership in high-stakes environments. Seeking to leverage these skills for a career in [desired industry/role].
+
+## Key Skills and Competencies
+
+---
+
+**Software Development**\
+
+   - *Languages*: Proficient in C++, Python, Bash
+   - *Experience*: Developed and maintained data acquisition software, enhancing system responsiveness through continuous integration testing.
+   - *Achievements*: Designed and implemented a flexible software package for DAQ, facilitating quicker problem resolution.
+
+**Data Acquisition System Development**\
+
+   - Skills: Expertise in developing and managing data acquisition systems.
+   - Experience: Coordinated operations and ensured maximum uptime and safety for the ATLAS Pixel detector at CERN.
+   - Achievements: Improved DAQ software flexibility and responsiveness, supporting 24/7 LHC data acquisition.
+
+**System Testing and Integration**\
+
+   - Skills: Extensive experience in system testing and integration for complex detectors.
+   - Experience: Led system testing for the ALICE Inner Tracking System Upgrade, verifying performance of 13 billion channels.
+   - Achievements: Achieved a 98% yield in constructing and testing CMOS MAPS detector modules.
+
+**Data Analysis and Visualization**\
+
+   - Tools: Matplotlib, Plotly, Seaborn, Pandas, ROOT
+   - Experience: Analyzed large datasets and visualized complex data effectively.
+   - Achievements: Conducted the first measurement of detection efficiency for ALICE Inner Tracking System using 5 million cosmic muon tracks.
+
+**Operations Coordination**\
+
+   - Skills: Strong organizational and leadership skills in coordinating operations.
+   - Experience: Managed ATLAS Pixel detector operations, supporting 24/7 data acquisition at CERN.
+   - Achievements: Successfully held key roles such as Pixel Run Coordinator and Pixel Deputy Run Coordinator.
+
+**Silicon Chip Characterisation**\
+
+   - Skills: Specialized knowledge in characterizing silicon CMOS MAPS chips.
+   - Experience: Constructed, commissioned, and tested novel CMOS MAPS detector modules and staves.
+   - Achievements: Played a pivotal role in the ALICE Inner Tracking System Upgrade, the largest MAPS tracking detector ever built.
 
 ## Professional Experience
 
