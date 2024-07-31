@@ -37,6 +37,8 @@ h3 {
     background-color: #FFFFFF;
     text-align: center;
     font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 dt { /*dates*/
