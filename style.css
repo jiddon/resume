@@ -14,6 +14,8 @@ body {
     margin: auto;
     background: #FFFFFF;
     padding: 14px 14px 14px 14px;
+    letter-spacing: 0.025em;
+    line-height: 120%;
     color: #404040;
 }
 /* Title of the resume */
@@ -35,6 +37,8 @@ h3 {
     background-color: #FFFFFF;
     text-align: center;
     font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 dt { /*dates*/
@@ -45,8 +49,11 @@ dt { /*dates*/
 dd {
     margin-top: 10px;
     margin-left: 0%;
-    text-align: justify;
-    text-justify: inter-word;
+}
+
+ul { /*headers in skill seciton*/
+    margin-top: 1px;
+    margin-bottom: 10px;
 }
 
 ul { /*headers in skill seciton*/
@@ -59,13 +66,19 @@ p {
     margin-bottom:2px;
     margin-left: 0%;
     text-align: justify;
-    text-justify: inter-word;
 }
 
 blockquote {
+    margin-left: 0%;
+    margin-right: 0%;
     margin-top:0;
     margin-bottom:7px;
     text-align: center;
+}
+
+code {
+    font-size: 13px;    
+    letter-spacing: 0.01em;
 }
 
 /* Links */
@@ -88,9 +101,11 @@ hr {
 
 /* For pdf */
 @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em }
     body {
         font-family: Arial, Helvetica, sans-serif;
-        font-size:13px;
+        font-size:13.5px;
         width: 95%;
         background: #FFFFFF;
         color: #404040;
@@ -109,11 +124,16 @@ hr {
 @media screen and (min-width: 768px) {
     body {
 	    font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
+	    font-size: 20px;
 	    width: 50%;
 	    margin: auto;
 	    background: #FFFFFF;
 	    padding: 20px 20px 20px 20px;
 	    color: #404040;
+    }
+    code {
+        font-size: 20px;    
+        letter-spacing: 0.01em;
     }
 }
 
