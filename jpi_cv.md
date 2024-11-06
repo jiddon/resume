@@ -11,7 +11,7 @@
 
 operations • coordination • silicon chip characterisation • data acquisition system development • software development • system testing and integration • data analysis and visualisation • professional communication with international stakeholders
 
-`Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html • css • Matplotlib • Plotly • Seaborn • Pandas • ROOT`
+Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html • css • Matplotlib • Plotly • Seaborn • Pandas • ROOT
 
 ## Professional Experience
 
@@ -44,14 +44,14 @@ Oct 2017 - Jul 2022
 :   **PhD in Applied Physics**\
     *University of Liverpool / CERN*
 
-    - Title: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC.\
-    - Defended in June 2022. Shortlisted for the ALICE thesis award.\
+    - Title: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC.
+    - Defended in June 2022. Shortlisted for the ALICE thesis award.
 
 Sep 2013 - Jul 2017
 :   **MPHYS Physics**\
     *University of Liverpool*
 
     - Grade: First Class
-    - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.\
+    - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.
 
 A Levels: Maths (A), Physics (A), Chemistry (B) • 11 GCSEs B or higher • Full driving license 
