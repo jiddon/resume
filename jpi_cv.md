@@ -3,7 +3,7 @@
 # James Philip Iddon
 ### <james.philip.iddon@cern.ch> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) 
 
-> Applied Physicist with over 7 years of experience in high-energy physics experiments and advanced silicon technology. Proven track record in the research, development, construction, and commissioning of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and coordination of operations.
+> Applied Physicist with over 8 years of experience in high-energy physics experiments and advanced silicon technology. Proven track record in the research, development, construction, and commissioning of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and coordination of operations.
 
 ## Skills
 
@@ -17,7 +17,15 @@ Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • M
 
 ---
 
-Jul 2022 - present
+March 2025 - present
+:   **Applied Physicist**\
+    *CERN - Geneva, CH*
+
+    - Applied Physicist for ATLAS ITk Pixel, the largest silicon tracking system ever designed.
+    - Focussed primarily on the integration of the Outer Barrel of ITk Pixel.
+
+
+Jul 2022 - Jan 2025
 :   **Senior Applied Fellow (Detector Operations)**\
     *CERN - Geneva, CH*
 
