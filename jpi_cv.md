@@ -3,13 +3,13 @@
 # James Philip Iddon
 ### <james.philip.iddon@cern.ch> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) 
 
-> Applied Physicist with over 8 years of experience in high-energy physics experiments and advanced silicon technology. Proven track record in the development, construction, commissioning and operation of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and coordination of operations.
+> Applied Physicist with 8+ years of experience in high-energy physics and advanced silicon technologies. Proven expertise in designing, building, and operating state-of-the-art silicon pixel tracking detectors. Skilled in system testing, data acquisition software, and coordinating complex operations under high-pressure conditions. Known for diagnosing and resolving critical issues quickly and effectively.
 
 ## Skills
 
 ---
 
-**DevOps & Automation:** CI/CD pipelines • Python (8 years) • C++ (5 years) • Docker • Shell scripting • Git • Linux\
+**DevOps & Automation:** CI/CD pipelines • Python (8yr) • C++ (5yr) • Docker • Bash • Git • Linux\
 **System Engineering:** Data acquisition system development • System testing • Hardware-software\
 **Communication & Coordination**: International team operations • DevOps team coordination\
 **Code Quality**: Code review workflows • Static analysis tools
@@ -60,7 +60,7 @@ Sep 2013 - Jul 2017
 :   **MPHYS Physics**\
     *University of Liverpool*
 
-    - Grade: First Class
+    - Specialised in detector physics • Grade: First Class
     - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.
 
 ---
