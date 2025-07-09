@@ -3,33 +3,34 @@
 # James Philip Iddon
 ### <james.philip.iddon@cern.ch> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) 
 
-> Applied Physicist with over 8 years of experience in high-energy physics experiments and advanced silicon technology. Proven track record in the research, development, construction, and commissioning of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and coordination of operations.
+> Applied Physicist with over 8 years of experience in high-energy physics experiments and advanced silicon technology. Proven track record in the development, construction, commissioning and operation of cutting-edge silicon pixel tracking detectors. Expertise in system testing, data acquisition software development, and coordination of operations.
 
 ## Skills
 
 ---
 
-operations • coordination • silicon chip characterisation • data acquisition system development • software development • system testing and integration • data analysis and visualisation • professional communication with international stakeholders
-
-Python • C++ • Bash • Linux (Arch, Debian, Ubuntu) • Git • LaTeX • Markdown • html • css • Matplotlib • Plotly • Seaborn • Pandas • ROOT
+**DevOps & Automation:** CI/CD pipelines • Python (8 years) • C++ (5 years) • Docker • Shell scripting • Git • Linux\
+**System Engineering:** Data acquisition system development • System testing • Hardware-software\
+**Communication & Coordination**: International team operations • DevOps team coordination\
+**Code Quality**: Code review workflows • Static analysis tools
 
 ## Professional Experience
 
 ---
 
-March 2025 - present
-:   **Applied Physicist**\
+Mar 2025 - present
+:   **Applied Physicist (Staff)**\
     *CERN - Geneva, CH*
 
     - Applied Physicist for ATLAS ITk Pixel, the largest silicon tracking system ever designed.
-    - Focussed primarily on the integration of the Outer Barrel of ITk Pixel.
+    - Focussed primarily on the orchestration of the functional electrical testing for the integration of the Outer Barrel of ITk Pixel.
 
 
-Jul 2022 - Jan 2025
-:   **Senior Applied Fellow (Detector Operations)**\
+Jul 2022 - Feb 2025
+:   **Applied Physicist (Senior Applied Fellow)**\
     *CERN - Geneva, CH*
 
-    - Coordinated operations for the ATLAS Pixel detector, ensuring maximum up-time and detector safety to support 24/7 LHC data acquisition. 
+    - Coordinated operations for the ATLAS silicon Pixel detector, ensuring maximum up-time and detector safety to support 24/7 LHC data acquisition. 
     - Developed and maintained data acquisition software (C++ / Python) with continuous integration testing, enhancing system responsiveness.
     - Designed and implemented a software package to improve DAQ software flexibility, facilitating faster problem resolution by detector experts.
     - Management and training of 24/7 shift crew • On-call detector expert • Organisation of weekly meetings • Representation of the group in daily ATLAS meetings.
@@ -62,4 +63,7 @@ Sep 2013 - Jul 2017
     - Grade: First Class
     - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.
 
-A Levels: Maths (A), Physics (A), Chemistry (B) • 11 GCSEs B or higher • Full driving license 
+---
+
+Full driving license • Spanish residence permit • English native • French A1+  
+ 
