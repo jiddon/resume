@@ -9,8 +9,8 @@
 
 ---
 
-**DevOps & Automation:** CI/CD pipelines • Python (8yr) • C++ (5yr) • Docker • Bash • Git • Linux\
-**System Engineering:** Data acquisition system development • System testing • Hardware-software\
+**Technical:** Python (8yr) • C++ (5yr) • Hadrware-software • CI/CD • Docker • Bash • Git • Linux\
+**System Engineering:** Data acquisition system development • System testing • System integration\ 
 **Communication & Coordination**: International team operations • DevOps team coordination\
 **Code Quality**: Code review workflows • Static analysis tools
 
@@ -65,5 +65,5 @@ Sep 2013 - Jul 2017
 
 ---
 
-Full driving license • Spanish residence permit • English native • French A1+  
+Full driving license • Spanish residence permit • English native speaker • French A1+  
  
