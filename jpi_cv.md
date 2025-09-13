@@ -11,7 +11,7 @@
 ---
 
 **Technical:** Python (8yr) • C++ (5yr) • Hardware-software • V&V • CI/CD • Docker • Bash • Git • Linux\
-**Systems Engineering:** Systems development, validation, integration, deployment, and operation\ 
+**Systems Engineering:** Systems development, validation, integration, deployment, and operation\
 **Communication & Coordination**: International stakeholder coordination • DevOps coordination\
 **Code Quality**: Code review workflows • Static analysis tools • Testing automation
 
@@ -23,8 +23,8 @@ Mar 2025 – Present
 :   **Applied Physicist (Staff)**\
     *CERN, Geneva, CH*
 
-    - Applied Physicist responsible for the verification, validation and integration of the outer barrel of ATLAS ITk Pixel, the largest silicon tracking system ever designed.
-    - Designing system architecture, V&V requirements and strategy.
+    - Applied Physicist responsible for the verification, validation and integration of the outer barrel of ATLAS ITk Pixel, a project involving 50 institutions worldwide.
+    - Designing system architecture, V&V requirements and strategy for the 5 billion channel silicon tracker.
 
 
 Jul 2022 – Feb 2025
@@ -32,9 +32,9 @@ Jul 2022 – Feb 2025
     *CERN, Geneva, CH*
 
     - Coordinated operations for the ATLAS silicon Pixel detector, ensuring maximum up-time and detector safety to support 24/7 LHC data acquisition. 
-    - Developed and maintained data acquisition software (C++ / Python) with CI testing • Designed and implemented a software package to improve DAQ software flexibility.
-    - Managed and trained 24/7 shift crew • On-call detector expert • Organised and chaired weekly international meetings • Represented the group in multi-stakeholder environments.
-    - Pixel Run Coordinator (Oct 2023 - Oct 2024) during the hadronic collider record breaking year of 2024, and deputy for the six months prior.
+    - Developed data acquisition software • Designed software to improve DAQ flexibility.
+    - Managed and trained 24/7 shift crew • On-call detector expert • Organised and chaired weekly international meetings • Represented the group in the 6000 strong ATLAS community.
+    - Pixel Run Coordinator (Oct 2023 - Oct 2024) during the hadronic collider record-breaking year of 2024, and deputy for the six months prior.
 
 Oct 2017 – Jul 2022
 :   **Applied Physicist (Doctorant)**\
@@ -53,7 +53,7 @@ Oct 2017 – Jul 2022
 :   **PhD in Applied Physics**\
     *University of Liverpool / CERN*
 
-    - Title: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC, focused on systems engineering, system integration, and verification & validation of complex detector systems.\
+    - Title: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC, focused on systems engineering, system integration, and verification & validation of complex detector systems.
     - Defended in June 2022. Shortlisted for the ALICE thesis award.
 
 Sep 2013 – Jul 2017
