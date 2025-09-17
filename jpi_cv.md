@@ -3,7 +3,7 @@
 # James Philip Iddon
 ### <james.philip.iddon@cern.ch> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) 
 
-> Experienced applied physicist / systems engineer with 8+ years in the integration, verification, and operation of large-scale, safety-critical detector and data acquisition systems. Proven track record in system-level verification and validation (V&V), requirements-driven development, cross-functional team leadership, and issue resolution under mission-critical conditions.
+> Experienced applied physicist / systems engineer with 8+ years in the integration, verification, and operation of large-scale, safety-critical silicon particle detectors and their associated data acquisition systems. Proven track record in system-level verification and validation (V&V), requirements-driven development, cross-functional team leadership, and issue resolution under mission-critical conditions.
 
 
 ## Skills
