@@ -35,8 +35,8 @@ Jul 2022 – Feb 2025
     - Managed and coordinated complex detector operations for the ATLAS silicon Pixel detector supporting a 24/7 data acquisition environment at the Large Hadron Collider (LHC), highlighting operational leadership, risk mitigation, and incident command expertise.
     - Designed, developed, and maintained scalable data acquisition (DAQ) software, integrating DevOps principles including CI/CD to enhance system robustness and flexibility.
     - Led and mentored a 24/7 operational shift team, implementing team coordination strategies and succession planning to maintain operational excellence.
-    - Facilitated and chaired international collaboration meetings to align cross-functional teams, manage stakeholder expectations, and drive project progress in a highly distributed, multicultural environment.
-    - Acted as primary liaison representing the 30 member detector operations team within a 6000+ member scientific community, exemplifying negotiation, diplomacy, and strategic communication skills.
+    - Chaired international collaboration meetings to align cross-functional teams, manage stakeholder expectations, and drive project progress in a highly distributed, multicultural environment.
+    - Acted as primary liaison representing the 30 member detector operations team within a 6000+ member scientific community, exemplifying negotiation and strategic communication skills.
     - Served as Pixel Run Coordinator during a record-setting collider year, orchestrating detector operations plans, resource allocation, and risk management efforts, reinforcing expertise in project execution and leadership under pressure.
 
 Oct 2017 – Jul 2022
