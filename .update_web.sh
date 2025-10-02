@@ -7,7 +7,9 @@ echo 'layout: archive' | cat - jpi_cv.txt > temp && mv temp jpi_cv.txt
 echo '---' | cat - jpi_cv.txt > temp && mv temp jpi_cv.txt
 echo '```' >> jpi_cv.txt
 
-cat jpi_cv.md | tail -n +5 > cv.md
+cat jpi_cv_no_contact.md | tail -n +5 > cv.md
+
+
 echo '---' | cat - cv.md > temp && mv temp cv.md
 echo 'author_profile: true' | cat - cv.md > temp && mv temp cv.md
 echo 'permalink: /cv/' | cat - cv.md > temp && mv temp cv.md
