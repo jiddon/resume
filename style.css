@@ -7,13 +7,16 @@
  * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
  */
 
+/* for weasyprint */
+@page {
+    margin: 20mm 20mm 10mm 20mm; /* top right bottom left */
+}
 /* Whole document */
 body {
     font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
     width: 90%;
     margin: auto;
     background: #FFFFFF;
-    padding: 14px 14px 14px 14px;
     letter-spacing: 0.025em;
     line-height: 120%;
     color: #404040;
@@ -22,7 +25,6 @@ body {
 h1 {
     font-size: 55px;
     text-align:center;
-    margin-bottom:30px;
 }
 
 /* Titles of categories */
@@ -33,11 +35,11 @@ h2 {
 
 /* banner, e.g. email, phone, linkedin */
 h3 {
-    color: #000000;
+    color: #404040;
     background-color: #FFFFFF;
     text-align: center;
     font-weight: normal;
-    margin-top: 20px;
+    margin-top: -10px;
     margin-bottom: 10px;
 }
 
@@ -102,7 +104,6 @@ hr {
 /* For pdf */
 @media print {
     pre > code.sourceCode { white-space: pre-wrap; }
-    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em }
     body {
         font-family: Arial, Helvetica, sans-serif;
         font-size:13px;
