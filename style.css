@@ -33,8 +33,15 @@ h2 {
     margin-top:20px;
 }
 
-/* banner, e.g. email, phone, linkedin */
+/* Titles of categories */
 h3 {
+    margin-bottom:2px;
+    margin-top:20px;
+    font-size: 20px;
+}
+
+/* banner, e.g. email, phone, linkedin */
+h4 {
     color: #404040;
     background-color: #FFFFFF;
     text-align: center;
