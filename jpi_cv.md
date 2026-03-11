@@ -5,53 +5,57 @@
 
 ### <james.philip.iddon@cern.ch> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) <br> Betera, Valencia • +41 77 211 94 53
 
-> Experienced applied physicist / systems engineer with 8+ years in the integration, verification, and operation of large-scale, safety-critical silicon particle detectors and their associated data acquisition systems within large, international collaborations. Proven track record in system-level verification and validation (V&V), requirements-driven development, cross-functional team leadership, and issue resolution under mission-critical conditions.
+> Experienced applied physicist / systems and validation engineer with 8+ years in the integration, verification, and operation of large-scale, safety-critical silicon particle detectors and their associated data acquisition systems within large, international collaborations. Proven track record in system-level verification and validation (V&V), requirements-driven development, cross-functional team leadership, and issue resolution under mission-critical conditions. Experience transferable to aerospace, automotive, and defense safety‑critical systems.
 
 ## Skills
 
 ---
 
-**Technical:** Python • C++ • Hardware-software integration • Verification & Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux • Automated testing and deployment\
-**Systems Engineering:** Systems lifecycle development, requirements analysis, integration, validation, deployment, and operational support • Configuration management and quality assurance \
+**Technical:** Python • C++ • Hardware-software integration • Verification and Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux • Automated testing and deployment • REST API\
+**Systems Engineering:** Systems lifecycle development, requirements analysis, integration, validation, deployment, and operational support • Configuration management and quality assurance\
 **Communication & Coordination:** Jira • International stakeholder engagement • Cross-functional team leadership • DevOps operations coordination\
-**Code Quality:** Code review workflows • Static analysis tools • Testing automation and continuous integration
+**Code Quality:** Code review workflows • Static analysis tools • Testing automation and continuous integration\
 
 ## Professional Experience
 
 ---
 
-Mar 2025 – Present
-:   **Applied Physicist (Staff)**\
+Jul 2022 – Dec 2025
+:   **Applied Physicist (Staff, formerly Senior Fellow)**\
     *CERN, Geneva, CH*
 
-    - Accountable for the verification, validation, and integration of the outer barrel of the ATLAS ITk Pixel detector, a large-scale, safety-critical system co-developed by 50 international institutions, illustrating advanced systems engineering and technical coordination capabilities.
-    - Designing system architecture and V&V protocols to assure the reliability and performance of a 5 billion channel silicon tracker, emphasising expertise in requirements engineering, risk assessment, and quality control.
-
-Jul 2022 – Feb 2025
-:   **Applied Physicist (Senior Applied Fellow)**\
-    *CERN, Geneva, CH*
-
-    - Managed and coordinated complex detector operations for the ATLAS silicon Pixel detector supporting a 24/7 data acquisition environment at the Large Hadron Collider (LHC), highlighting operational leadership, risk mitigation, and incident command expertise.
-    - Designed, developed, and maintained scalable data acquisition (DAQ) software, integrating DevOps principles including CI/CD to enhance system robustness and flexibility.
-    - Led and mentored a 24/7 operational shift team, implementing team coordination strategies and succession planning to maintain operational uptime.
-    - Chaired international collaboration meetings to align cross-functional teams, manage stakeholder expectations, and drive project progress in a highly distributed, multicultural environment.
-    - Acted as primary liaison representing the 30 member detector operations team within a 6000+ member scientific community, exemplifying negotiation and strategic communication skills.
-    - Served as Pixel Run Coordinator during a record-setting collider year, orchestrating detector operations plans, resource allocation, and risk management efforts, reinforcing expertise in project execution and leadership under pressure.
+    - Led verification, validation, and integration for electrical characterisation of safety-critical silicon sensor array (outer barrel subsystem, 50-institution project).
+    - Engineered V&V protocols and testbenches for 5 billion-channel distributed data acquisition system.
+    - Deployed and maintained over 5 automated test setups for different silicon sensor module qualification.
+    - Managed 24/7 operations and DevOps team for high-reliability sensor system supporting particle accelerator data acquisition at LHC.
+    - Provided on-call operational and DAQ expertise for 24/7 mission-critical operations over 2 years.
+    - Developed/maintained DAQ software (C++/Python, CI/CD pipelines) for continuous operations in a mission-critical environment.
+    - Mentored and led 24/7 shift teams drawn from 300-person international pool.
+    - Chaired international meetings aligning cross-functional teams over 9 time zones.
+    - Represented ~30 person operations team in 6000+ member international collaboration.
+    - Authored 3 novel software packages (Python) including well used operational tools deployed across international collaboration.
+    - Served as operations coordinator for record-setting accelerator run (200+ days continuous).
 
 Oct 2017 – Jul 2022
 :   **Applied Physicist (Doctorant)**\
     *University of Liverpool / CERN*
 
-    - Constructed, commissioned, and performed comprehensive system-level performance measurements of the ALICE Inner Tracking System Upgrade, the largest Monolithic Active Pixel Sensor (MAPS) tracking detector ever developed, demonstrating strong project management and systems engineering skills.
-    - Developed system verification software and devised comprehensive V&V strategies for the fully integrated detector, validating performance metrics against stringent system requirements.
-    - Achieved exceptional manufacturing yields (98%) for CMOS MAPS detector modules and staves, showcasing expertise in process control, quality assurance, and precision engineering.
-    - Pioneered the first measurement of detection efficiency using over 5 million cosmic muon tracks, exemplifying technical coordination, experimental validation and data analysis skills.
+    - Contributed significantly to construction, commissioning, and performance testing of largest monolithic pixel sensor array ever built.
+    - Constructed, characterised, and verified 25% of Outer Barrel modules with 98% manufacturing yield.
+    - Developed verification software integrated with production readout and V&V strategies for full detector system (12.5 billion pixels, 10m² silicon).
+    - Validated performance of complete sensor system against requirements.
+    - Made first measurment of detection efficiency using 5 million cosmic muon tracks across full detector system.
+    - Presented technical work in international collaboration meetings (170+ institutions) from small working groups to large plenaries.
 
 <div style="page-break-after: always;"></div>
 
 ## Education
 
 ---
+
+Dec 2025 - Present
+:   **Intensive Spanish Course**\
+    *Taronja Spanish School, Valencia*
 
 Oct 2017 – Jul 2022
 :   **PhD in Applied Physics**\
@@ -64,10 +68,10 @@ Sep 2013 – Jul 2017
 :   **MPHYS Physics**\
     *University of Liverpool*
 
-    - Integrated mastors, specialised in detector physics • Grade: First Class
+    - Integrated masters, specialised in detector physics • Grade: First Class
     - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.
 
 ---
 
-Full driving licence • Spanish residence permit • English native speaker
+Full driving licence • Spanish residence permit • English native speaker • Spanish A2+/B1
 
