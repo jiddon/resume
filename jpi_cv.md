@@ -12,7 +12,7 @@
 
 ---
 
-**Technical:** Python • C++ • Hardware-software integration • Verification and Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux • Automated testing and deployment • REST API\
+**Technical:** Python • C++ • Hardware-software integration • Verification and Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux • Automated testing and deployment • REST API • UART • I2C\
 **Systems Engineering:** Systems life-cycle development, requirements analysis, integration, validation, deployment, and operational support • Configuration management and quality assurance\
 **Communication & Coordination:** Jira • International stakeholder engagement • Cross-functional team leadership • DevOps operations coordination\
 **Code Quality:** Code review workflows • Static analysis tools • Testing automation and continuous integration\
