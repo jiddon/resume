@@ -3,7 +3,7 @@
 # James Philip Iddon
 \
 
-#### <jamesiddon94@gmail.com> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) <br> Betera, Valencia • +41 77 211 94 53
+#### <jamesiddon94@gmail.com> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) <br> Betera, Valencia • +34 640 940 447
 
 > Experienced applied physicist / systems engineer with 8+ years in the integration, verification, and operation of large-scale, safety-critical silicon particle detectors and their associated data acquisition systems within large, international collaborations. Proven track record in system-level verification and validation (V&V), requirements-driven development, cross-functional team leadership, and issue resolution under mission-critical conditions.
 
@@ -20,7 +20,7 @@
 
 ---
 
-Mar 2025 – Present
+Mar 2025 – Dec 2025
 :   **Applied Physicist (Staff)**\
     *CERN, Geneva, CH*
 
@@ -52,6 +52,10 @@ Oct 2017 – Jul 2022
 ## Education
 
 ---
+
+Dec 2025 - Present
+:   **Intensive Spanish Course**\
+    *Taronja Spanish School, Valencia*
 
 Oct 2017 – Jul 2022
 :   **PhD in Applied Physics**\
@@ -102,6 +106,8 @@ All publications as an ALICE and ATLAS author can be found via my Inspire ID: [1
 - Organisation of Operations session, Pixel Week, Geneva, 2024
 - Organisation of Operations session, Pixel Week, Paris, 2023 
 
+<div style="page-break-after: always;"></div>
+
 ## Mentorship
 
 ---
@@ -141,4 +147,8 @@ All publications as an ALICE and ATLAS author can be found via my Inspire ID: [1
 - ALICE, 2016 - 2023
 - University of Liverpool 2011 - 2022
 - Daresbury Laboratory, 2017 - 2019
+
+---
+
+Full driving licence • Spanish residence permit • English native speaker • Spanish A2+/B1
 
