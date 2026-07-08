@@ -5,7 +5,7 @@
 
 #### <jamesiddon94@gmail.com> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) <br> Betera, Valencia • +34 640 940 447
 
-> Experienced applied physicist / systems engineer with 8+ years in the integration, verification, and operation of large-scale, safety-critical silicon particle detectors and their associated data acquisition systems within large, international collaborations. Proven track record in system-level verification and validation (V&V), requirements-driven development, cross-functional team leadership, and issue resolution under mission-critical conditions.
+> Experienced applied physicist with 8+ years in the integration, verification, and operation of large-scale, safety-critical silicon particle detectors and their associated data acquisition systems within large, international collaborations. Proven track record in system-level verification and validation (V&V), requirements-driven development, cross-functional team leadership, and issue resolution under mission-critical conditions.
 
 ## Skills
 
@@ -139,27 +139,32 @@ All publications as an ALICE and ATLAS author can be found via my Inspire ID: [1
 - ATLAS Run-3 Shift Training, Inner Detector Desk Training, 2024
 - PHYS206 Practical Physics II, Teaching Assistant, 2017 - 2019
 
-## Leadership
+## Leadership / Appointments
 
 ---
 
-- Pixel DAQ Coordinator 1st Oct 2024 - 31st Jan 2025
-- Pixel Run Coordinator 1st Oct 2023 - 30th Sep 2024
-- Pixel Deputy Run Coordinator 1st Apr 2023 - 30th Sep 2023
-- Leader of the cosmic muon data collection campaign on surface for ALICE ITS2, 2020
+- ATLAS Physics Office Member Jul 2026 - present
+- Belle II VTX WG6 Convener Jul 2026 - present
+- ATLAS Pixel DAQ Coordinator Oct 2024 - Jan 2025
+- ATLAS Pixel Run Coordinator Oct 2023 - Sep 2024
+- ATLAS Pixel Deputy Run Coordinator Apr 2023 - Sep 2023
+- ALICE ITS2 Leader of the cosmic muon data collection campaign on surface, 2020
 
 ## Affiliations
 
 ---
 
+- IFIC, 2026 - present
+- Belle II, 2026 - present
+- Universitat de Valencia, 2026 - present
 - ATLAS, 2022 - present
-- ALICE ITS Collaboration 2016 - present
-- ALICE, 2016 - 2023
 - CERN, 2016 - present
+- ALICE ITS Collaboration 2016 - 2023
+- ALICE, 2016 - 2023
 - University of Liverpool 2011 - 2022
 - Daresbury Laboratory, 2017 - 2019
 
-One of the 2025 Breakthrough Prize in Fundamental Physics for both ATLAS and ALICE
+One of 1,869 ALICE researchers and 5,345 ATLAS researchers to be awarded the [2025 Breakthrough Prize in Fundamental Physics](https://breakthroughprize.org/Laureates/1/P1/Y2025).
 
 ---
 
