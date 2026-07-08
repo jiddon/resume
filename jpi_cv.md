@@ -5,12 +5,12 @@
 
 #### <jamesiddon94@gmail.com> • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) <br> Betera, Valencia • +34 640 940 447
 
-## Part A Personal data
+## Part A. Personal data
 
 ---
 
-- Gender: Male\
-- ORCID: [0000-0002-2851-5554](https://orcid.org/0000-0002-2851-5554)\
+- Gender: Male
+- ORCID: [0000-0002-2851-5554](https://orcid.org/0000-0002-2851-5554)
 
 ## A.1. Current professional status
 
@@ -18,10 +18,8 @@
 
 Apr 2026 – Present
 : **Applied Physicist (Severo Ochoa Postdoctoral Fellow)**\
-  *IFIC / Universitat de València, Valencia, ES*\
-
-  - **Key words:** Silicon detectors • Detector integration • Verification and validation • Data acquisition systems • Systems engineering • Detector operations
-
+  *IFIC / Universitat de València, Valencia, Spain*\
+  **Key words:** Silicon tracking detectors • Detector integration • Verification and validation • Detector commissioning • Detector operations • DAQ systems • Systems engineering
 
 ## A.2. Previous professional status
 
@@ -29,18 +27,15 @@ Apr 2026 – Present
 
 Mar 2025 – Dec 2025
 :   **Applied Physicist (Staff)**\
-    *CERN, Geneva, CH*\
-
+    *CERN, Geneva, Switzerland*
 
 Jul 2022 – Feb 2025
 :   **Applied Physicist (Senior Applied Fellow)**\
-    *CERN, Geneva, CH*\
-
+    *CERN, Geneva, Switzerland*
 
 Oct 2017 – Jul 2022
 :   **Applied Physicist (Doctoral Researcher)**\
-    *University of Liverpool / CERN*\
-
+    *University of Liverpool / CERN, United Kingdom / Switzerland*
 
 ## A.3. Academic formation
 
@@ -49,30 +44,35 @@ Oct 2017 – Jul 2022
 Oct 2017 – Jul 2022
 :   **PhD in Applied Physics**\
     *University of Liverpool / CERN, United Kingdom / Switzerland*\
+    2022
 
 Sep 2013 – Jul 2017
 :   **MPHYS Physics**\
     *University of Liverpool, United Kingdom*\
+    2017
 
 Dec 2025 – Apr 2026
 :   **Intensive Spanish Course**\
     *Taronja Spanish School, Spain*\
+    2026
 
 ## Part B. Free curriculum summary
 
 ---
 
-Applied physicist with over 8 years of experience in the integration, verification, validation, and operation of large-scale silicon detector systems and associated DAQ software in major international collaborations. Research activity has focused on the construction, commissioning, operation, and performance validation of advanced silicon tracking detectors in ALICE and ATLAS, with contributions spanning hardware-software integration, detector verification, requirements-driven development, and mission-critical operations.
+My main research line is the construction, commissioning, validation, and operation of next-generation silicon tracking detectors. I have developed this line through successive contributions to ALICE ITS2, the ATLAS Pixel detector, ATLAS ITk Pixel and Strip, and Belle II VTX. This trajectory has given me a distinctive cross-experiment perspective spanning detector construction, system integration, commissioning, mission-critical operation, and future tracker development. Across these projects, my work has focused on connecting detector design, hardware-software integration, and operational performance in order to deliver reliable, high-precision tracking systems for frontier collider experiments.
 
-Scientific contributions include construction and verification of 25% of the ALICE ITS2 Outer Barrel, development of verification software integrated with production readout and commissioning workflows, and the first full-system detection-efficiency measurement using cosmic muon tracks. More recent work includes operational leadership for the ATLAS Pixel detector during Run 3 and responsibility for the verification, validation, and integration of the ATLAS ITk Pixel outer barrel. These activities have contributed to detector performance, reliability assurance, calibration, and operational readiness in large international experiments.
+My scientific contributions include the construction, characterisation, and verification of 25% of the ALICE ITS2 Outer Barrel, together with the development of verification software integrated with detector production readout and commissioning workflows. In this context, I defined test procedures, voltage-drop criteria, and commissioning methods for detector validation. I also initiated and led the first cosmic-muon studies of the ITS2 Outer Barrel and carried out the first full-system detection-efficiency measurement, providing an early quantitative validation of detector performance. These contributions combined detector construction, methodological development, and data analysis within a coherent programme of system-level verification and performance validation.
 
-Contributions to knowledge generation have been communicated through peer-reviewed publications, conference presentations, and collaboration reports. The publication record includes 414 publications, 7009 citations, and an h-index of 44. Selected outputs include work on ALICE ITS Run 3 monitoring and calibration, operational performance of the ATLAS Pixel detector, the ALICE detector upgrades during Long Shutdown 2, and the first demonstration of in-beam performance of bent Monolithic Active Pixel Sensors.
+In ATLAS Pixel, I combined technical development with operational leadership during mission-critical Run 3 detector operations. I developed operational tools used by the detector operations team, coordinated calibration activities, and held formal responsibility for readiness decisions as run coordinator. This included the authority to approve or deny detector turn-on when safety conditions were not met, and responsibility for FFTV release decisions. These roles required technical judgement, prioritisation under time-critical conditions, and accountability for detector readiness in a large international collaboration. In ATLAS ITk Pixel, I further contributed to defining subsystem integration procedures and the validation tests required for future deployment.
 
-Scientific and technical capacities acquired include systems engineering for complex detector infrastructures, detector integration, software development in Python and C++, continuous integration and deployment workflows, detector commissioning, validation against system requirements, and coordination of mission-critical operations. Responsibilities exercised include ATLAS Pixel Run Coordinator, Deputy Run Coordinator, DAQ Coordinator, and leadership of the ALICE ITS2 surface cosmic-muon campaign. Current appointments also include ATLAS Physics Office Member and Belle II VTX WG6 Convener.
+These activities have established my independent scientific identity as a specialist in system-level verification, commissioning, and operational validation of large-scale silicon trackers. My contribution has not been limited to technical execution, but has included the definition of procedures, the development of enabling software and workflows, decision-making on readiness and safe operation, and the production of original detector-performance results. This expertise has led to appointments including ATLAS Pixel Run Coordinator, Deputy Run Coordinator, DAQ Coordinator, ATLAS Physics Office Member, and Belle II VTX WG6 Convener, as well as invitations to present detector-performance and operational work in collaboration and workshop settings.
 
-International collaboration has been a central feature of the career to date, through long-term work at CERN and active participation in ALICE, ATLAS, and Belle II. The professional trajectory spans the United Kingdom, Switzerland, and Spain, with extensive work in large multicultural teams and coordination across multiple institutions and time zones.
+My publication record comprises 414 publications, 7009 citations, and an h-index of 44. Selected outputs include work on ALICE ITS Run 3 monitoring and calibration, operational experience and performance of the ATLAS Pixel detector, the ALICE upgrade programme during Long Shutdown 2, the first in-beam demonstration of bent Monolithic Active Pixel Sensors, and commissioning of the new ALICE Inner Tracking System. These publications reflect both collaborative detector-development efforts and specific contributions to commissioning, performance validation, and operational methodology.
 
-Contributions to society include technological development and innovation in high-performance detector systems and associated readout and control software. This work supports frontier experimental infrastructure and contributes enabling technologies for large-scale scientific instrumentation. Additional contributions include the training and mentoring of young researchers through supervision of CERN summer students, high-school internships, PhD qualification tasks, operational mentoring in ATLAS Pixel run coordination, and teaching support in undergraduate laboratory courses. These activities have contributed to the technical development, integration, and career progression of early-career researchers in international research environments.
+My contributions to society include technological development and innovation in high-performance detector systems and associated readout, control, and quality-assurance workflows. This work supports major international scientific infrastructures and contributes enabling technologies for complex experimental instrumentation. I have also contributed to the training and career development of young researchers through supervision of CERN summer students, high-school internships, PhD qualification tasks, operational mentoring in ATLAS Pixel run coordination, and undergraduate teaching support. These activities have helped integrate early-career researchers into large international teams and contributed to their technical and professional development.
+
+Building on this trajectory, my future research agenda focuses on operation-proof next-generation silicon trackers: detector systems in which component traceability, validation, calibration, and long-term reliability are designed as an integrated lifecycle framework. Drawing on experience from ALICE ITS2, ATLAS Pixel, ATLAS ITk, and Belle II VTX, I aim to develop methods that reduce commissioning risk, improve operational robustness, and make detector performance more predictable under radiation damage and large-scale integration constraints. A particular objective is to apply industrial best practices of configuration control, acceptance testing, and component tracking to detector construction and operation, so that future tracker systems are safer to deploy, easier to validate, and more resilient over time.
 
 ## Part C. List of most relevant contributions
 
@@ -103,59 +103,19 @@ Contributions to society include technological development and innovation in hig
 
 ---
 
-- **ATLAS ITk Pixel Outer Barrel integration, verification and validation**, CERN / ATLAS Upgrade, 2025. Type of participation: researcher with responsibility for verification, validation and integration of the outer barrel system.
-- **ATLAS Pixel detector operations during LHC Run 3**, CERN / ATLAS, 2022 – 2025. Type of participation: researcher; later operational coordination and DAQ coordination responsibilities.
-- **ALICE ITS2 construction, commissioning and performance validation**, CERN / ALICE ITS Upgrade, 2017 – 2022. Type of participation: doctoral researcher with responsibility for construction, characterisation, software-supported verification and detector performance studies.
-- **Research line: silicon tracking detectors and associated DAQ systems**, spanning ALICE ITS2, ATLAS Pixel, and ATLAS ITk Pixel. Personal contribution includes detector integration, commissioning, system validation, DAQ software development, and mission-critical detector operations.
+- **ALICE ITS2 construction, commissioning and performance validation**, CERN / ALICE ITS Upgrade, 2017 – 2022. Type of participation: doctoral researcher with responsibility for detector construction, characterisation, verification software, commissioning methods, and first full-system efficiency studies.
+- **ATLAS Pixel detector operations during LHC Run 3**, CERN / ATLAS, 2022 – 2025. Type of participation: researcher with operational coordination responsibilities, including run coordination, detector-readiness decisions, calibration coordination, and development of tools supporting mission-critical operation.
+- **ATLAS ITk Pixel outer barrel integration, verification and validation**, CERN / ATLAS Upgrade, 2025. Type of participation: researcher with responsibility for subsystem integration procedures, verification and validation strategy, and definition of tests required for deployment.
+- **Future silicon tracker systems in ATLAS ITk Strip and Belle II VTX**, CERN / KEK collaborations, 2025 – present. Type of participation: researcher contributing expertise in tracker integration, operational readiness, and next-generation detector-system design.
+- **Research line: operation-proof next-generation silicon tracking detectors**, spanning ALICE ITS2, ATLAS Pixel, ATLAS ITk, and Belle II VTX. Personal contribution centers on connecting detector design, integration, commissioning, validation, and long-term operational robustness.
 
 ## C.4. Participation in technology/knowledge transfer activities and exploitation of results. Patents
 
 ---
 
 - Development of verification and validation software integrated with detector production readout and commissioning workflows for ALICE ITS2.
-- Development and maintenance of DAQ software, CI/CD workflows, and operational tools for continuous detector operation in ATLAS Pixel.
-- Contributions to technological development in large-scale silicon detector infrastructure, detector control, quality assurance, and reliability-oriented operational procedures.
+- Definition of detector test procedures, voltage-drop criteria, and commissioning methods for ALICE ITS2 subsystem validation.
+- Development of operational software tools, CI/CD workflows, and calibration-support infrastructure for ATLAS Pixel mission-critical detector operation.
+- Definition of subsystem integration procedures and validation tests for ATLAS ITk Pixel deployment.
+- Ongoing interest in applying industrial best practices to large-scale tracker construction and operation, including common frameworks for component tracking, reliability assurance, and lifecycle control.
 - No patents to declare.
-
-## Additional information
-
----
-
-- ATLAS Physics Office Member, Jul 2026 – present
-- Belle II VTX WG6 Convener, Jul 2026 – present
-- ATLAS Pixel DAQ Coordinator, Oct 2024 – Jan 2025
-- ATLAS Pixel Run Coordinator, Oct 2023 – Sep 2024
-- ATLAS Pixel Deputy Run Coordinator, Apr 2023 – Sep 2023
-- ALICE ITS2 leader of the cosmic muon data collection campaign on surface, 2020
-- Linus and Marie, Supervisor, High school internship, CERN, 2025
-- Zachary Cole Sheridan, Co-supervisor, CERN Summer Student Program, CERN, 2025
-- Tim Schloemer, Technical co-supervisor, PhD Qualification Task, CERN, 2024
-- Yue Xu, Mentor, Pixel Run Coordination, CERN, 2024
-- Kehang Bai, Albert Borbely, Yuan-Tang Chou, Simone Ravera, Sergi Rodriguez Bosca, Khuram Tariq, Elia Schmidt, Mentor, Pixel Run Manager, CERN, 2023 – 2024
-- Elia Schmidt, Technical Supervisor, PhD Qualification Task, CERN, 2024
-- Lucas Cremer, Technical Supervisor, PhD Qualification Task, CERN (remote), 2023
-- Emily Lantham-Taylor, Assisted Supervision, Master’s project, Daresbury Laboratory, 2019
-- ATLAS Run-3 Shift Training, Inner Detector Desk Training, 2024
-- PHYS206 Practical Physics II, Teaching Assistant, 2017 – 2019
-- IFIC, 2026 – present
-- Belle II, 2026 – present
-- Universitat de València, 2026 – present
-- ATLAS, 2022 – present
-- CERN, 2016 – present
-- ALICE ITS Collaboration, 2016 – 2023
-- ALICE, 2016 – 2023
-- University of Liverpool, 2011 – 2022
-- Daresbury Laboratory, 2017 – 2019
-- One of 1,869 ALICE researchers and 5,345 ATLAS researchers to be awarded the [2025 Breakthrough Prize in Fundamental Physics](https://breakthroughprize.org/Laureates/1/P1/Y2025)
-- Full driving licence • Spanish residence permit • English native speaker • Spanish A2+/B1
-
-
-
-
-The biggest gains would come from making the CV show:
-
-    a single coherent research trajectory,
-
-    a stronger independent scientific identity,
-
-    and more explicit evidence of personal intellectual ownership, not just technical responsibility.
