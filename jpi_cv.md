@@ -25,6 +25,10 @@ Apr 2026 – Present
 
 ---
 
+Dec 2025 – Apr 2026
+:   **Career break**\
+    *Intensive Spanish course, Taronja Spanish School, Valencia (5 months)*\
+
 Mar 2025 – Dec 2025
 :   **Applied Physicist (Staff)**\
     *CERN, Geneva, Switzerland*
@@ -51,28 +55,25 @@ Sep 2013 – Jul 2017
     *University of Liverpool, United Kingdom*\
     2017
 
-Dec 2025 – Apr 2026
-:   **Intensive Spanish Course**\
-    *Taronja Spanish School, Spain*\
-    2026
+Part B. Free curriculum summary
 
-## Part B. Free curriculum summary
+------------------------------------------------------------------------
 
----
+My main research line is the construction, commissioning, validation, and operation of next-generation silicon tracking detectors. My research has focused on connecting detector design, hardware-software integration, system verification and validation, and long-term operational performance in large-scale collider experiments. I have developed this research line through successive contributions to ALICE ITS2, the ATLAS Pixel detector, ATLAS ITk Pixel and Strip, and Belle II VTX. This trajectory has provided me with a strong international profile and a distinctive cross-experiment perspective spanning detector construction, system integration, detector commissioning, mission-critical operations, and future tracker development.
 
-My main research line is the construction, commissioning, validation, and operation of next-generation silicon tracking detectors. I have developed this line through successive contributions to ALICE ITS2, the ATLAS Pixel detector, ATLAS ITk Pixel and Strip, and Belle II VTX. This trajectory has given me a distinctive cross-experiment perspective spanning detector construction, system integration, commissioning, mission-critical operation, and future tracker development. Across these projects, my work has focused on connecting detector design, hardware-software integration, and operational performance in order to deliver reliable, high-precision tracking systems for frontier collider experiments.
+My scientific career started in silicon detector instrumentation during my integrated master’s project and was consolidated during my PhD at the University of Liverpool and CERN. During this period, I participated in the construction, characterisation, and verification of 25% of the ALICE ITS2 Outer Barrel, one of the largest monolithic pixel detector systems ever built. I developed verification software integrated with detector production readout and commissioning workflows, and I defined detector test procedures, voltage-drop criteria, and commissioning methods for subsystem validation. I also led the first cosmic-muon studies of the ITS2 Outer Barrel and carried out the first full-system detection-efficiency measurement using 5 million cosmic muon tracks, providing an early quantitative validation of detector performance. These contributions demonstrate my capacity to combine detector construction, methodological development, and detector-performance analysis within a coherent programme of system-level verification and validation.
 
-My scientific contributions include the construction, characterisation, and verification of 25% of the ALICE ITS2 Outer Barrel, together with the development of verification software integrated with detector production readout and commissioning workflows. In this context, I defined test procedures, voltage-drop criteria, and commissioning methods for detector validation. I also initiated and led the first cosmic-muon studies of the ITS2 Outer Barrel and carried out the first full-system detection-efficiency measurement, providing an early quantitative validation of detector performance. These contributions combined detector construction, methodological development, and data analysis within a coherent programme of system-level verification and performance validation.
+After my PhD, I continued to develop my research line at CERN through positions of increasing scientific and technical responsibility in ATLAS Pixel detector operations. In this period, I developed operational tools and CI/CD-supported workflows for mission-critical detector operation, coordinated calibration activities, and contributed to the development and maintenance of DAQ software for continuous LHC operations. I have held formal responsibility for detector readiness decisions as ATLAS Pixel Run Coordinator, including the authority to approve or deny detector turn-on when safety conditions were not met and responsibility for FFTV release decisions. I also coordinated 24/7 operations for a detector system supported by a 300-person international pool, represented an operations team of around 30 people within a collaboration of more than 6000 members, and chaired international meetings across 9 time zones. These activities have provided me with leadership experience in high-pressure operational environments and have strengthened my independent scientific identity in the area of system-level validation and detector readiness.
 
-In ATLAS Pixel, I combined technical development with operational leadership during mission-critical Run 3 detector operations. I developed operational tools used by the detector operations team, coordinated calibration activities, and held formal responsibility for readiness decisions as run coordinator. This included the authority to approve or deny detector turn-on when safety conditions were not met, and responsibility for FFTV release decisions. These roles required technical judgement, prioritisation under time-critical conditions, and accountability for detector readiness in a large international collaboration. In ATLAS ITk Pixel, I further contributed to defining subsystem integration procedures and the validation tests required for future deployment.
+In parallel, I have contributed to future detector development through my work on ATLAS ITk Pixel and Strip and, more recently, Belle II VTX. In ATLAS ITk Pixel, I have contributed to defining subsystem integration procedures, verification and validation strategy, and the tests required for detector deployment in a project involving around 50 international institutions and a 5 billion channel silicon tracker. Through these contributions, I have continued to develop a research profile centred on operation-proof detector systems, where construction, integration, validation, commissioning, and long-term operation are treated as a single scientific and engineering problem. I am currently applying this experience in my present position at IFIC / Universitat de València and through leadership appointments in ATLAS and Belle II.
 
-These activities have established my independent scientific identity as a specialist in system-level verification, commissioning, and operational validation of large-scale silicon trackers. My contribution has not been limited to technical execution, but has included the definition of procedures, the development of enabling software and workflows, decision-making on readiness and safe operation, and the production of original detector-performance results. This expertise has led to appointments including ATLAS Pixel Run Coordinator, Deputy Run Coordinator, DAQ Coordinator, ATLAS Physics Office Member, and Belle II VTX WG6 Convener, as well as invitations to present detector-performance and operational work in collaboration and workshop settings.
+As a result of my research activity, I have published 414 papers and my work has received 7009 citations, with an h-index of 44. I have published papers on ALICE ITS commissioning and Run 3 monitoring, operational experience and performance of the ATLAS Pixel detector, the ALICE upgrade programme during Long Shutdown 2, and the first in-beam demonstration of bent Monolithic Active Pixel Sensors. I have participated in numerous national and international conferences and I have delivered 5 selected oral presentations or invited talks on detector commissioning, performance validation, and operational experience. My publication record reflects both strong participation in major international collaborations and specific contributions to detector methodology, commissioning, and system performance.
 
-My publication record comprises 414 publications, 7009 citations, and an h-index of 44. Selected outputs include work on ALICE ITS Run 3 monitoring and calibration, operational experience and performance of the ATLAS Pixel detector, the ALICE upgrade programme during Long Shutdown 2, the first in-beam demonstration of bent Monolithic Active Pixel Sensors, and commissioning of the new ALICE Inner Tracking System. These publications reflect both collaborative detector-development efforts and specific contributions to commissioning, performance validation, and operational methodology.
+I have also contributed to the training and career development of young researchers. I have supervised or mentored 15 early-career researchers, including 3 PhD qualification tasks, 1 Master’s project, 1 CERN Summer Student, 2 high-school internship students, and 8 operational mentees in ATLAS Pixel coordination roles. I have also participated in undergraduate teaching and detector shift training, including PHYS206 Practical Physics II and ATLAS Run-3 Inner Detector Desk training. These activities demonstrate my commitment to mentoring, team development, and knowledge transfer in complex research environments.
 
-My contributions to society include technological development and innovation in high-performance detector systems and associated readout, control, and quality-assurance workflows. This work supports major international scientific infrastructures and contributes enabling technologies for complex experimental instrumentation. I have also contributed to the training and career development of young researchers through supervision of CERN summer students, high-school internships, PhD qualification tasks, operational mentoring in ATLAS Pixel run coordination, and undergraduate teaching support. These activities have helped integrate early-career researchers into large international teams and contributed to their technical and professional development.
+My scientific career has been strongly international, with research activity carried out in the United Kingdom, Switzerland, and Spain, and within major international collaborations including ALICE, ATLAS, CERN, Belle II, IFIC, and the University of Liverpool. I have worked across detector construction, detector operations, and future detector design, and I have built a broad collaborative network spanning experimental particle physics, detector instrumentation, and systems engineering. This international profile has been essential for developing the interdisciplinary and cross-collaboration perspective that defines my current research line.
 
-Building on this trajectory, my future research agenda focuses on operation-proof next-generation silicon trackers: detector systems in which component traceability, validation, calibration, and long-term reliability are designed as an integrated lifecycle framework. Drawing on experience from ALICE ITS2, ATLAS Pixel, ATLAS ITk, and Belle II VTX, I aim to develop methods that reduce commissioning risk, improve operational robustness, and make detector performance more predictable under radiation damage and large-scale integration constraints. A particular objective is to apply industrial best practices of configuration control, acceptance testing, and component tracking to detector construction and operation, so that future tracker systems are safer to deploy, easier to validate, and more resilient over time.
+My future research goals are focused on operation-proof next-generation silicon trackers: detector systems in which component traceability, validation, calibration, and long-term reliability are designed as an integrated lifecycle framework. I aim to develop methods that reduce commissioning risk, improve operational robustness, and make detector performance more predictable under radiation damage and large-scale integration constraints. In particular, I aim to apply industrial best practices of configuration control, acceptance testing, and component tracking to detector construction and operation, so that future tracker systems are safer to deploy, easier to validate, and more resilient over time. My long-term goal is to consolidate an independent research line at the interface of detector instrumentation, systems engineering, and operational reliability for frontier particle-physics experiments.
 
 ## Part C. List of most relevant contributions
 
@@ -119,3 +120,69 @@ Building on this trajectory, my future research agenda focuses on operation-proo
 - Definition of subsystem integration procedures and validation tests for ATLAS ITk Pixel deployment.
 - Ongoing interest in applying industrial best practices to large-scale tracker construction and operation, including common frameworks for component tracking, reliability assurance, and lifecycle control.
 - No patents to declare.
+
+
+
+---
+
+
+
+Most common phrase patterns
+
+These are the recurring formulations that appear again and again:
+
+    “My main research line is…”
+
+    “My research line is…”
+
+    “My scientific/independent research focuses on…”
+
+    “I have published a total of…”
+
+    “I have published [number] papers/articles…”
+
+    “I have participated in…”
+
+    “I have supervised…”
+
+    “I have co-supervised…”
+
+    “I have presented…”
+
+    “I have participated in numerous national and international conferences…”
+
+    “I have been awarded…”
+
+    “I have worked/worked in/visited [number] institutions/countries…”
+
+    “I have developed…”
+
+    “I have contributed to…”
+
+    “I have led…”
+
+    “I am currently…” / “Since [year], I am…”
+
+    “I aim to…” / “My future research goals…”
+
+The most frequent claim types
+
+The summaries repeatedly use a small set of claim types:
+
+    Research line framing.
+    Candidates almost always start by saying their “main research line” or “scientific interest” and then describe continuity across stages.
+
+    Output quantification.
+    They repeatedly give counts: publications, citations, h-index, congresses, projects, students supervised, teaching hours, or institutions visited.
+
+    Leadership and independence.
+    Common phrases include “I have led,” “I am PI,” “I was project coordinator,” “I obtained my own funding,” and “I opened/established my own research line”.
+
+    Mentoring and training.
+    A very common pattern is “I have supervised/co-supervised X Bachelor/Master/PhD students” or “I mentored X students and researchers”.
+
+    International mobility.
+    Many candidates emphasize “I worked/visited X institutions in Y countries” or “my international mobility…”.
+
+    Future agenda.
+    Most summaries finish with “I aim to…”, “My future research goals…”, or a similar forward-looking statement.
