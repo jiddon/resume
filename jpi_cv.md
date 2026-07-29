@@ -21,6 +21,10 @@ Apr 2026 – Present
   *IFIC / Universitat de València, Valencia, Spain*\
   **Key words:** Silicon tracking detectors • Detector integration • Verification and validation • Detector commissioning • Detector operations • DAQ systems • Systems engineering
 
+    - Belle II WG6 Demonstrator telescope convener
+    - Design, construction and characterisation of a DMAPS demonstrator telescope (Belle II)
+    - Characterisation and integration of a silicon strip detector (ITk Strips)
+
 ## A.2. Previous professional status
 
 ---
@@ -48,7 +52,9 @@ Oct 2017 – Jul 2022
 Oct 2017 – Jul 2022
 :   **PhD in Applied Physics**\
     *University of Liverpool / CERN, United Kingdom / Switzerland*\
-    2022
+
+    - Thesis: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC, focused on systems engineering, integration, and comprehensive verification and validation of complex detector systems.
+    - Defended June 2022. Shortlisted for the ALICE thesis award.
 
 Sep 2013 – Jul 2017
 :   **MPHYS Physics**\
@@ -57,7 +63,7 @@ Sep 2013 – Jul 2017
 
 Part B. Free curriculum summary
 
-------------------------------------------------------------------------
+---
 
 My main research line is the construction, commissioning, validation, and operation of next-generation silicon tracking detectors. My research has focused on connecting detector design, hardware-software integration, system verification and validation, and long-term operational performance in large-scale collider experiments. I have developed this research line through successive contributions to ALICE ITS2, the ATLAS Pixel detector, ATLAS ITk Pixel and Strip, and Belle II VTX. This trajectory has provided me with a strong international profile and a distinctive cross-experiment perspective spanning detector construction, system integration, detector commissioning, mission-critical operations, and future tracker development.
 
@@ -127,62 +133,4 @@ My future research goals are focused on operation-proof next-generation silicon 
 
 
 
-Most common phrase patterns
 
-These are the recurring formulations that appear again and again:
-
-    “My main research line is…”
-
-    “My research line is…”
-
-    “My scientific/independent research focuses on…”
-
-    “I have published a total of…”
-
-    “I have published [number] papers/articles…”
-
-    “I have participated in…”
-
-    “I have supervised…”
-
-    “I have co-supervised…”
-
-    “I have presented…”
-
-    “I have participated in numerous national and international conferences…”
-
-    “I have been awarded…”
-
-    “I have worked/worked in/visited [number] institutions/countries…”
-
-    “I have developed…”
-
-    “I have contributed to…”
-
-    “I have led…”
-
-    “I am currently…” / “Since [year], I am…”
-
-    “I aim to…” / “My future research goals…”
-
-The most frequent claim types
-
-The summaries repeatedly use a small set of claim types:
-
-    Research line framing.
-    Candidates almost always start by saying their “main research line” or “scientific interest” and then describe continuity across stages.
-
-    Output quantification.
-    They repeatedly give counts: publications, citations, h-index, congresses, projects, students supervised, teaching hours, or institutions visited.
-
-    Leadership and independence.
-    Common phrases include “I have led,” “I am PI,” “I was project coordinator,” “I obtained my own funding,” and “I opened/established my own research line”.
-
-    Mentoring and training.
-    A very common pattern is “I have supervised/co-supervised X Bachelor/Master/PhD students” or “I mentored X students and researchers”.
-
-    International mobility.
-    Many candidates emphasize “I worked/visited X institutions in Y countries” or “my international mobility…”.
-
-    Future agenda.
-    Most summaries finish with “I aim to…”, “My future research goals…”, or a similar forward-looking statement.
