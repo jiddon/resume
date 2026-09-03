@@ -139,6 +139,13 @@ All publications as an ALICE and ATLAS author can be found via my Inspire ID: [1
 - ATLAS Run-3 Shift Training, Inner Detector Desk Training, 2024
 - PHYS206 Practical Physics II, Teaching Assistant, 2017 - 2019
 
+## Reviewing
+
+---
+
+- Registered EU expert evaluator, European Commission (EX2026D1485816) 
+- Independent external expert for COST open calls
+
 ## Leadership / Appointments
 
 ---
