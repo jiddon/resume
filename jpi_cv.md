@@ -7,24 +7,17 @@
 
 > Experienced applied physicist with 8+ years in the integration, verification, and operation of large-scale, safety-critical silicon particle detectors and their associated data acquisition systems within large, international collaborations. Proven track record in system-level verification and validation (V&V), requirements-driven development, cross-functional team leadership, and issue resolution under mission-critical conditions.
 
-## Skills
-
----
-
-**Technical:** Python • C++ • Hardware-software integration • Verification & Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux • Automated testing and deployment\
-**Systems Engineering:** Systems lifecycle development, requirements analysis, integration, validation, deployment, and operational support • Configuration management and quality assurance \
-**Communication & Coordination:** Jira • International stakeholder engagement • Cross-functional team leadership • DevOps operations coordination\
-**Code Quality:** Code review workflows • Static analysis tools • Testing automation and continuous integration
 
 ## Professional Experience
 
 ---
 
 Apr 2026 – Present
-: **Applied Physicist (Severo Ochoa Postdoctoral Fellow)**\
-  *IFIC / Universitat de Valencia, Valencia, ES*
+:   **Applied Physicist (Severo Ochoa Postdoctoral Fellow)**\
+    *IFIC / Universitat de Valencia, Valencia, ES*
 
-
+    - Covener of the OBELIX CMOS telescope group in Belle II VTX upgrade.
+    - Developer of verification software of the ITk Strip detector construction and integration.
 
 Mar 2025 – Dec 2025
 :   **Applied Physicist (Staff)**\
@@ -55,9 +48,6 @@ Oct 2017 – Jul 2022
     - Made first measurement of detection efficiency using 5 million cosmic muon tracks across full detector system.
     - Presented technical work in international collaboration meetings (170+ institutions) from small working groups to large plenaries, as well as national and international conferences.
 
-
-
-<div style="page-break-after: always;"></div>
 
 ## Education
 
@@ -117,7 +107,6 @@ All publications as an ALICE and ATLAS author can be found via my Inspire ID: [1
 - Organisation of Operations session, Pixel Week, Geneva, 2024
 - Organisation of Operations session, Pixel Week, Paris, 2023 
 
-<div style="page-break-after: always;"></div>
 
 ## Mentorship
 
@@ -172,6 +161,16 @@ All publications as an ALICE and ATLAS author can be found via my Inspire ID: [1
 - Daresbury Laboratory, 2017 - 2019
 
 One of 1,869 ALICE researchers and 5,345 ATLAS researchers to be awarded the [2025 Breakthrough Prize in Fundamental Physics](https://breakthroughprize.org/Laureates/1/P1/Y2025).
+
+## Skills
+
+---
+
+**Technical:** Python • C++ • Hardware-software integration • Verification & Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux • Automated testing and deployment\
+**Systems Engineering:** Systems lifecycle development, requirements analysis, integration, validation, deployment, and operational support • Configuration management and quality assurance \
+**Communication & Coordination:** Jira • International stakeholder engagement • Cross-functional team leadership • DevOps operations coordination\
+**Code Quality:** Code review workflows • Static analysis tools • Testing automation and continuous integration
+
 
 ---
 
