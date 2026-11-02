@@ -5,7 +5,7 @@
 
 #### [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) <br> Valencia
 
-Applied physicist specialising in the construction, verification, commissioning, and operation of large-scale silicon particle-tracking detectors and their data-acquisition systems, with experience across the ALICE, ATLAS, and Belle II collaborations at CERN and IFIC/Universitat de València. Research interests include silicon pixel and strip sensor characterisation and qualification, system-level verification and validation (V&V) of complex detector systems, and detector commissioning and operations.
+> Applied physicist specialising in the construction, verification, commissioning, and operation of large-scale silicon particle-tracking detectors and their data-acquisition systems, with experience across the ALICE, ATLAS, and Belle II collaborations at CERN and IFIC/Universitat de València. Research interests include silicon pixel and strip sensor characterisation and qualification, system-level verification and validation (V&V) of complex detector systems, and detector commissioning and operations.
 
 ## Research Profile
 
@@ -14,6 +14,47 @@ Applied physicist specialising in the construction, verification, commissioning,
 - Silicon pixel and strip detector development and qualification
 - Detector systems verification, validation, commissioning, and operations
 - Data acquisition, hardware-software integration, and automated testing
+
+## Professional Experience
+
+---
+
+Apr 2026 – Present
+: **Applied Physicist (Severo Ochoa Postdoctoral Fellow)**\
+  *IFIC / Universitat de Valencia, Valencia, ES*
+
+    - Convener of the OBELIX CMOS sensor telescope working group for the Belle II VTX detector upgrade: coordinating systems integration across a multi-institution development team.
+    - Developing verification software for construction and integration of a large-scale silicon sensor subsystem (ITk Strip detector), in a cleanroom production environment.
+
+
+
+Jul 2022 – Dec 2025
+:   **Applied Physicist (Staff, formerly Senior Fellow)**\
+    *CERN, Geneva, CH*
+
+    - Planned V&V for electrical characterisation of a safety-critical silicon sensor array subsystem (ATLAS ITk Pixel outer barrel, 50-institution international programme).
+    - Deployed and maintained 5+ automated qualification test setups for cleanroom-based silicon sensor module acceptance testing.
+    - Managed 24/7 operations and DevOps team for a high-reliability sensor system supporting continuous data acquisition for a large-scale international research facility (ATLAS Pixel detector, LHC).
+    - Provided on-call systems/DAQ engineering support for 24/7 mission-critical operations over 2 years.
+    - Developed and maintained data-acquisition (DAQ) software (C++/Python, CI/CD pipelines) for continuous mission operations in a safety-critical environment.
+    - Mentored and led 24/7 shift engineering teams drawn from a 300-person international pool.
+    - Chaired international engineering meetings aligning cross-functional teams across 9 time zones.
+    - Represented a ~30-person operations team within a 6000+ member international collaboration.
+    - Authored 3 novel software packages (Python), including operational tools adopted across international collaborations.
+    - Served as system operations coordinator for a record-setting facility operational year.
+
+Oct 2017 – Jul 2022
+:   **Applied Physicist (Doctorant)**\
+    *University of Liverpool / CERN*
+
+    - Constructed, characterised, and verified 25% of the outer barrel of a large-scale silicon pixel sensor system (ALICE ITS2 — the largest monolithic pixel sensor array ever built), in ISO-standard cleanroom facilities, achieving 98% manufacturing yield.
+    - Developed verification software integrated with production readout and system-level V&V strategy for the full sensor system (12.5 billion pixels, 10 m² silicon).
+    - Validated full sensor system performance against engineering requirements.
+    - Performed first in-system detection-efficiency measurement using 5 million cosmic-ray tracks across the full sensor system.
+    - Presented technical work across a 170+ institution international collaboration, from working groups to plenary sessions, and at national and international conferences.
+
+<div style="page-break-after: always;"></div>
+>>>>>>> Stashed changes
 
 ## Education
 
