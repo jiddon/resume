@@ -1,261 +1,236 @@
+---
+pagetitle: James Philip Iddon — CV
+---
+
 <base target="_blank">
 
 # James Philip Iddon
 \
 
-#### [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) <br> Valencia
+#### [email](mailto:jamesiddon94@gmail.com) • [ORCID 0000-0002-2851-5554](https://orcid.org/0000-0002-2851-5554) • [INSPIRE](https://inspirehep.net/authors/1618293) • [linkedin](https://www.linkedin.com/in/j-p-iddon) • [github.io](https://jiddon.github.io) <br> IFIC (CSIC–UV), Paterna, Valencia, ES
 
-> Applied physicist specialising in the construction, verification, commissioning, and operation of large-scale silicon particle-tracking detectors and their data-acquisition systems, with experience across the ALICE, ATLAS, and Belle II collaborations at CERN and IFIC/Universitat de València. Research interests include silicon pixel and strip sensor characterisation and qualification, system-level verification and validation (V&V) of complex detector systems, and detector commissioning and operations.
-
-## Research Profile
-
----
-
-- Silicon pixel and strip detector development and qualification
-- Detector systems verification, validation, commissioning, and operations
-- Data acquisition, hardware-software integration, and automated testing
-
-## Professional Experience
-
----
-
-Apr 2026 – Present
-: **Applied Physicist (Severo Ochoa Postdoctoral Fellow)**\
-  *IFIC / Universitat de Valencia, Valencia, ES*
-
-    - Convener of the OBELIX CMOS sensor telescope working group for the Belle II VTX detector upgrade: coordinating systems integration across a multi-institution development team.
-    - Developing verification software for construction and integration of a large-scale silicon sensor subsystem (ITk Strip detector), in a cleanroom production environment.
-
-
-
-Jul 2022 – Dec 2025
-:   **Applied Physicist (Staff, formerly Senior Fellow)**\
-    *CERN, Geneva, CH*
-
-    - Planned V&V for electrical characterisation of a safety-critical silicon sensor array subsystem (ATLAS ITk Pixel outer barrel, 50-institution international programme).
-    - Deployed and maintained 5+ automated qualification test setups for cleanroom-based silicon sensor module acceptance testing.
-    - Managed 24/7 operations and DevOps team for a high-reliability sensor system supporting continuous data acquisition for a large-scale international research facility (ATLAS Pixel detector, LHC).
-    - Provided on-call systems/DAQ engineering support for 24/7 mission-critical operations over 2 years.
-    - Developed and maintained data-acquisition (DAQ) software (C++/Python, CI/CD pipelines) for continuous mission operations in a safety-critical environment.
-    - Mentored and led 24/7 shift engineering teams drawn from a 300-person international pool.
-    - Chaired international engineering meetings aligning cross-functional teams across 9 time zones.
-    - Represented a ~30-person operations team within a 6000+ member international collaboration.
-    - Authored 3 novel software packages (Python), including operational tools adopted across international collaborations.
-    - Served as system operations coordinator for a record-setting facility operational year.
-
-Oct 2017 – Jul 2022
-:   **Applied Physicist (Doctorant)**\
-    *University of Liverpool / CERN*
-
-    - Constructed, characterised, and verified 25% of the outer barrel of a large-scale silicon pixel sensor system (ALICE ITS2 — the largest monolithic pixel sensor array ever built), in ISO-standard cleanroom facilities, achieving 98% manufacturing yield.
-    - Developed verification software integrated with production readout and system-level V&V strategy for the full sensor system (12.5 billion pixels, 10 m² silicon).
-    - Validated full sensor system performance against engineering requirements.
-    - Performed first in-system detection-efficiency measurement using 5 million cosmic-ray tracks across the full sensor system.
-    - Presented technical work across a 170+ institution international collaboration, from working groups to plenary sessions, and at national and international conferences.
-
-<div style="page-break-after: always;"></div>
->>>>>>> Stashed changes
+Applied physicist with 9 years building, qualifying and operating silicon trackers at the LHC. Research focus: operational resilience of large CMOS trackers, from qualification through decades of operation, towards FCC-ee.
 
 ## Education
 
 ---
 
-Oct 2017 – Jul 2022
-:   **PhD in Applied Physics**\
-    *University of Liverpool / CERN*
+2017 – 2022
+:   **PhD Applied Physics**, *University of Liverpool / CERN*
 
-    - Thesis: Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade of ALICE at the LHC.
-    - Defended June 2022. CERN Doctoral Student Programme. Shortlisted for the ALICE thesis award.
+    - Advisors: Marielle Chartier, Felix Reidt, Roy Lemmon.
 
-Sep 2013 – Jul 2017
-:   **MPHYS Physics**\
-    *University of Liverpool*
+2013 – 2017
+:   **MPhys Physics, First Class**, *University of Liverpool*
 
-    - Integrated masters, specialised in detector physics • Grade: First Class
-    - Masters project: ‘Inner Tracking System Upgrade of the ALICE Experiment at the LHC’, characterisation of silicon CMOS MAPS chips.
+    - Advisor: Marielle Chartier
 
-
-## Employment
+## Professional Experience
 
 ---
 
-Apr 2026 – Present
-:   **Applied Physicist (Severo Ochoa Postdoctoral Fellow)**\
-    *IFIC / Universitat de Valencia, Valencia, ES*
+2026 – present
+:   **Severo Ochoa Postdoctoral Fellow**, *IFIC (CSIC–Universitat de València)*, Valencia, ES
 
-Mar 2025 – Dec 2025
-:   **Applied Physicist (Staff)**\
-    *CERN, Geneva, CH*
+2025
+:   **Applied Physicist, Staff**, *CERN EP Department*, Geneva, CH (10 months)
 
-Jul 2022 – Feb 2025
-:   **Applied Physicist (Senior Applied Fellow)**\
-    *CERN, Geneva, CH*
+2022 – 2025
+:   **Senior Applied Fellow**, *CERN EP Department*, Geneva, CH (31 months)
 
-Oct 2017 – Jul 2022
-:   **Applied Physicist (Doctorant)**\
-    *University of Liverpool / CERN*
+2017 – 2022
+:   **Doctoral Student**, *University of Liverpool / CERN* (54 months)\
+    CERN Doctoral Student Programme, 27 months at CERN.
 
-
-## Projects and Technical Contributions
-
----
-
-**Belle II VTX Upgrade — OBELIX CMOS Telescope** (2026 – present)\
-*IFIC / Universitat de Valencia*
-
-- Convener of the OBELIX CMOS telescope group in the Belle II VTX upgrade.
-
-**ATLAS ITk Strip Detector** (2026 – present)\
-*IFIC / Universitat de Valencia*
-
-- Construction and integration of the ITk Strip detector.
-- ATLAS Physics Office Member.
-
-**ATLAS ITk Pixel Detector — Outer Barrel Verification and Validation** (2025)\
-*CERN*
-
-- Integration of the outer barrel of the ATLAS ITk Pixel detector, a system co-developed by 50 international institutions.
-
-**ATLAS Pixel Detector Operations** (2022 – 2025)\
-*CERN*
-
-- Mentored and led 24/7 shift teams drawn from a 300-person international pool.
-- Chaired international coordination meetings across 9 time zones.
-- Represented the ~30-person operations team within the 6000+ member ATLAS collaboration.
-- Provided on-call operational and DAQ expertise for mission-critical operations over 2 years.
-- Developed and maintained DAQ software (C++/Python, CI/CD pipelines) for continuous operations.
-
-**ALICE ITS2 — Inner Tracking System Upgrade** (2017 – 2022)\
-*University of Liverpool / CERN*
-
-- Constructed, characterised, and verified 25% of the Outer Barrel of the ALICE ITS2, the largest monolithic pixel sensor array ever built, with 98% manufacturing yield.
-- Developer of verification software integrated with production readout and V&V strategies for the full detector system (12.5 billion pixels, 10m² silicon).
-- Made the first measurement of detection efficiency using 5 million cosmic muon tracks across the full detector system.
-- Presented technical work in international collaboration meetings (170+ institutions), from working groups to plenaries, and at national and international conferences.
+2025 – 2026
+:   *Career break:* full-time intensive Spanish, Taronja, Valencia (Dec 2025 – Mar 2026), between CERN and IFIC appointments.
 
 
-## Leadership
+## Leadership and Coordination
 
 ---
 
-- Belle II VTX WG6 Convener, Jul 2026 - present
-- ATLAS Pixel DAQ Coordinator, Oct 2024 - Jan 2025
-- ATLAS Pixel Run Coordinator, Oct 2023 - Sep 2024
-- ATLAS Pixel Deputy Run Coordinator, Apr 2023 - Sep 2023
-- ALICE ITS2 Leader of the cosmic muon data collection campaign on surface, 2020
+2026 – present
+:   **Belle II VTX WG6 Convener** (OBELIX CMOS telescope)
 
+2024 – 2025
+:   **ATLAS Pixel DAQ Coordinator**
+
+2023 – 2024
+:   **ATLAS Pixel Run Coordinator** (Deputy from Apr 2023)
+
+2020
+:   **ALICE ITS2 Surface Cosmic Campaign Leader**
+
+## Research Contributions
+
+---
+
+2026 – present
+:   **Belle II VTX Upgrade — OBELIX telescope and VTX slice demonstrator**, *IFIC*\
+    *Funded by MICIU/AEI, SO project CEX2023-001292-S, PI: C. Marinas.*
+
+    - Coordinating the OBELIX telescope development with personal contributions to the DAQ/DCS chain.
+    - Co-supervising the PhD student building the VTX slice demonstrator.
+
+2026 – present
+:   **ATLAS Physics Office**
+
+    - Maintainer of the Physics Office GitLab CI pipelines.
+
+2026 – present
+:   **ATLAS ITk Strip — Verification software**, *IFIC*
+
+    - Maintainer of verification software for ITk Strip end-cap petals built at IFIC (14 modules/petal).
+    - Performed reliability analysis which halved the number of thermal cycles needed to verify a petal.
+
+2025
+:   **ATLAS ITk Pixel — Outer Barrel Verification and Validation**, *CERN*
+
+    - Member of the V&V team for the Outer Barrel integration, responsible for functional electrical testing during integration.
+
+2022 – 2025
+:   **ATLAS Pixel Detector Operations**, *CERN*
+
+    - On-call DAQ expert for 2 years of Run-3 operation.
+    - Led the ~30-person operations team for 2024, with 116 fb⁻¹ of pp collisions recorded.
+    - Managed 24/7 shift coverage from a ~300-person pool, chaired weekly meetings across 9 time zones, represented Pixel in ATLAS Run Coordination.
+    - Developed and maintained Pixel DAQ software (C++/Python, CI/CD).
+    - Presented operational performance at HSTD13 and wrote the corresponding proceedings [1].
+    - Organised and performed special data-collection runs forming the 2024 data set in [7].
+
+2017 – 2022
+:   **ALICE ITS2 — Inner Tracking System Upgrade**, *Liverpool / Daresbury / CERN*
+
+    *Construction*
+
+    - Member of the 8-person Liverpool/Daresbury team that built 25% of the Outer Barrel with 98% yield [5, 8].
+    - Responsible for module and stave characterisation at Liverpool and Daresbury respectively.
+
+    *System verification and commissioning*
+
+    - Developed scans for verification software integrated with the production readout for the full detector (12.5 × 10⁹ pixels, 10 m²) [2, 5].
+
+    *First performance measurement*
+
+    - Led the 2020 surface cosmic campaign and performed the detection-efficiency analysis of the full system with 5 × 10⁶ muon tracks. ITS2 performance result [8], presented at PSD12 (2021).
 
 ## Awards and Honours
 
 ---
 
-- 2025 Breakthrough Prize in Fundamental Physics, awarded jointly to the ALICE and ATLAS collaborations — one of 1,869 ALICE and 5,345 ATLAS researchers recognised.
-- Shortlisted, ALICE Thesis Award, 2022.
-
+- 2025 Breakthrough Prize in Fundamental Physics (ALICE and ATLAS collaborations).
+- 2022 ALICE Thesis Award, shortlisted.
 
 ## Publications
 
 ---
 
-All publications as an ALICE and ATLAS author can be found via my Inspire ID: [1618293](https://inspirehep.net/authors/1618293), or via [ORCID](https://orcid.org/0000-0002-2851-5554).
+447 publications, h-index (HEP) 84 (INSPIRE, 20/09/26). ALICE and ATLAS list authors alphabetically. Relevant papers are included below.
 
-### Selected publications:
+**As lead author**
 
-- ALICE ITS Collaboration [Sensor operating point calibration and monitoring of the ALICE Inner Tracking System during LHC Run 3](https://www.sciencedirect.com/science/article/pii/S016890022600080X), 2026
-- The ATLAS collaboration [Sensor response and radiation damage effects for 3D pixels in the ATLAS IBL Detector](https://iopscience.iop.org/article/10.1088/1748-0221/19/10/P10008), Journal of Instrumentation, 2024
-- The ALICE collaboration, [ALICE upgrades during the LHC Long Shutdown 2](https://iopscience.iop.org/article/10.1088/1748-0221/19/05/P05062), Journal of Instrumentation, 2024
-- J. P. Iddon on behalf of the ATLAS collaboration, [Operational experience and performance with the ATLAS Pixel detector at the Large Hadron Collider at CERN](https://www.sciencedirect.com/science/article/pii/S0168900224002389), Nuclear Instruments and Methods in Physics Research Section A, 2024
-- ALICE ITS Collaboration, [First demonstration of in-beam performance of bent Monolithic Active Pixel Sensors](https://www.sciencedirect.com/science/article/abs/pii/S0168900221011098), Nuclear Instruments and Methods in Physics Research Section A, 2022
-- J. P. Iddon on behalf of the ALICE collaboration, [Commissioning of the new ALICE Inner Tracking System](https://iopscience.iop.org/article/10.1088/1748-0221/15/08/C08009), Journal of Instrumentation, 2020
+1. J. P. Iddon (for ATLAS), *Operational experience and performance with the ATLAS Pixel detector at the LHC at CERN*, NIM A (2024).
+2. J. P. Iddon (for ALICE), *Commissioning of the new ALICE Inner Tracking System*, JINST 15 (2020) C08009.
 
+**Selected collaboration papers**
 
-## Conference Presentations
+3. ALICE ITS Collaboration, *Sensor operating point calibration and monitoring of the ALICE ITS during LHC Run 3*, NIM A (2026).
+4. ALICE ITS Collaboration, *First demonstration of in-beam performance of bent MAPS*, NIM A (2022).
+5. ALICE Collaboration, *ALICE upgrades during the LHC Long Shutdown 2*, JINST 19 (2024) P05062.
+6. ATLAS Collaboration, *Sensor response and radiation damage effects for 3D pixels in the ATLAS IBL*, JINST 19 (2024) P10008.
+7. ATLAS Collaboration, *Study of particle fluence effects on collected charge and depletion voltage of the ATLAS IBL planar pixel sensors*, JINST 21 (2026) P07048.
 
----
+**Thesis**
 
-- Operational Experience and Performance with the ATLAS Pixel detector at the Large Hadron Collider at CERN, HSTD13, Vancouver, 2023
-- Realising the ALICE ITS Upgrade, IOP Nuclear Colloquium, Remote, Nov 2021
-- Performance Measurements from Cosmic Muon Data using the Outer Barrel of the New ALICE Inner Tracking System, PSD12, Birmingham, Sept 2021
-- Upgrade and Commissioning of the ITS Upgrade of ALICE, INSTR'20, Novosibirsk, Feb 2020
-- Entering the precision era of hot QCD measurements, IOP18, Glasgow, Apr 2018
+8. J. P. Iddon. (2022). Construction, Commissioning and Performance Measurements of the Inner Tracking System Upgrade (ITS2) of ALICE at the LHC. CERN-THESIS-2022-123.
 
-
-## Conference / Workshop Organisation
+## Presentations
 
 ---
 
-- Organisation of Operations session, Pixel Week, Milan, 2024
-- Organisation of Operations session, Pixel Week, Geneva, 2024
-- Organisation of Operations session, Pixel Week, Paris, 2023
+**International conferences** (speaker)
+
+- *Operational experience and performance with the ATLAS Pixel detector*, HSTD13, Vancouver, 2023.
+- *Performance measurements from cosmic-muon data with the ALICE ITS2 Outer Barrel*, PSD12, Birmingham, 2021.
+- *Upgrade and commissioning of the ALICE ITS*, INSTR'20, Novosibirsk, 2020.
+- *Entering the precision era of hot QCD measurements*, IOP Nuclear & Particle Physics, Glasgow, 2018.
+
+**Invited talks and colloquia**
+
+- *Realising the ALICE ITS Upgrade*, IOP Nuclear Physics Colloquium, 2021.
+
+**Selected collaboration plenaries and workshops**
+
+- *Open points on software tools to run testing during integration*, Pixel DAQ and Testing Expert Days, CERN, 2025
+- *Inner Detector report (incl. Pixels, SCT, ID gen, TRT)*, ATLAS week, Thessaloniki, 2024.
+- *Pixel DAQ report*, Pixel week, Milan, 2024
+- *Run coordination report*, Pixel week, Paris, 2023
 
 
-## Supervision and Mentorship
+## Supervision and Teaching
 
 ---
 
-- Two high school interns, Supervisor, High school internship, CERN, 2025
-- One summer student, Co-supervisor, CERN Summer Student Program, CERN, 2025
-- One PhD candidate, Technical co-supervisor, PhD Qualification Task, CERN, 2024
-- One mentee, Mentor, Pixel Run Coordination, CERN, 2024
-- Seven mentees, Mentor, Pixel Run Manager, CERN, 2023–2024
-- One PhD candidate, Technical Supervisor, PhD Qualification Task, CERN, 2024
-- One PhD candidate, Technical Supervisor, PhD Qualification Task, CERN (remote), 2023
-- One Master's student, Assisted Supervision, Master's project, Daresbury Laboratory, 2019
+**PhD students**
 
+- PhD student, Universitat de València, *Belle II VTX slice demonstrator*, co-supervisor, 2026 –.
+- PhD student, Georg-August-Universität Göttingen, *Autonomous flagging of anomalous results for Pixel operations*, technical supervisor at CERN, 2024 – 2025.
+- PhD student, Technische Universität Dortmund, *New monitoring tools for Pixel operations*, technical supervisor at CERN, 2023 – 2024.
+- PhD student, Max Planck Institute for Physics, Munich, *Improving the Inner Detector shifter experience*, technical supervisor at CERN, 2023 – 2024.
 
-## Teaching
+**Postdocs and students trained for operational roles**
+
+- 1 postdoc to Pixel Run Coordinator
+- 3 postdocs and 4 PhD students to Pixel Run Manager.
+
+**Undergraduate / summer students**
+
+- 2 MSc students, *Characterisation of TJ-MonoPix2*, IFIC Summer Programme, 2026.
+- CERN Summer Student (co-supervisor), *Characterisation of ITkPix v2*, 2025.
+- 2 high-school interns, *Arduino environmental monitoring*, CERN, 2025.
+- MSc student (assisting), *ALPIDE chip and stave characterisation*, Daresbury, 2019.
+
+**Teaching**
+
+- ATLAS Run-3 Inner Detector shift training (lecturer), CERN, 2024 (~40 trainees).
+- PHYS206 Practical Physics II, teaching assistant, Liverpool, 2017 – 2019.
+
+## Detector Systems Contributions
 
 ---
 
-- ATLAS Run-3 Shift Training, Inner Detector Desk Training, 2024
-- PHYS206 Practical Physics II, Teaching Assistant, 2017 - 2019
+| System | My scope | Scale | Status |
+|---|---|---|---|
+| ALICE ITS2 Outer Barrel | UK team built 25%; I led stave verification | 12.5 × 10⁹ pixels, 10 m² (full ITS2) | Successfully taking data [3] |
+| ATLAS Pixel (Run 3) | Run Coordinator, DAQ Coordinator | 92 × 10⁶ channels | 116 fb⁻¹ recorded during my coordination |
+| ATLAS ITk Pixel Outer Barrel | Integration V&V | 2.93 × 10⁹ channels (full ITk Pixel) | Installation 2028 |
+| ATLAS ITk Strip | Verification software | 100 petals deliverable by IFIC | In construction |
+| Belle II VTX demonstrator | Group convener | 6 plane telescope | Deliverable by 2028 |
+
+**Lifecycle coverage:** sensor characterisation (ALPIDE, ITkPix, TJ-MonoPix2) → module/stave construction (ITS2) → system V&V (ITS2, ITk Pixel, ITk Strip) → commissioning (ITS2) → 24/7 operation (ATLAS Pixel) → next-generation design (Belle II VTX, FCC-ee).
 
 
 ## Professional Service
 
 ---
 
-- Registered EU expert evaluator, European Commission
-- Independent external expert for COST open calls
+- European Commission registered expert evaluator.
+- External expert, COST open calls.
+- Session organiser, Operations, ATLAS Pixel Week: Paris 2023, Geneva 2024, Milan 2024.
 
-
-## Affiliations
-
----
-
-- IFIC, 2026 - present
-- Belle II, 2026 - present
-- Universitat de Valencia, 2026 - present
-- ATLAS, 2022 - present
-- CERN, 2016 - present
-- ALICE ITS Collaboration, 2016 - 2023
-- ALICE, 2016 - 2023
-- University of Liverpool, 2011 - 2022
-- Daresbury Laboratory, 2017 - 2019
-
-
-## Technical Skills
+## Inclusion and Outreach
 
 ---
 
-**Technical:** Python • C++ • Hardware-software integration • Verification & Validation (V&V) • CI/CD pipelines • Docker • Bash • Git • Linux • Automated testing and deployment\
-**Systems Engineering:** Systems lifecycle development, requirements analysis, integration, validation, deployment, and operational support • Configuration management and quality assurance\
-**Communication & Coordination:** Jira • International stakeholder engagement • Cross-functional team leadership • DevOps operations coordination\
-**Code Quality:** Code review workflows • Static analysis tools • Testing automation and continuous integration
+- Member of the ATLAS Diversity and Inclusion colour-palette task force, which delivered a colour palette better for those with colour vision deficiency, now part of the ATLAS publication resources.
 
-
-## Career Breaks
+## Collaborations
 
 ---
 
-Dec 2025 – Apr 2026
-:   **Intensive Spanish Course**\
-    *Taronja Spanish School, Valencia*
-
-    - Full-time language study undertaken between the end of a CERN staff appointment and the start of a postdoctoral fellowship at IFIC/Universitat de Valencia.
-
+Belle II (2026 –) • ATLAS (2022 –) • ALICE / ALICE ITS (2016 – 2023)
 
 ---
 
-Full driving licence • Spanish residence permit • English native speaker • Spanish A2+/B1
-
+Spanish residence permit • English (native), Spanish (B1) • Full driving licence

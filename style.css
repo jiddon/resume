@@ -1,147 +1,176 @@
 /*
- * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
- *
- * CSS for making a resume with pandoc. Inspired by moderncv.
- *
- * This CSS document is delivered to you under the CC BY-SA 3.0 License.
- * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ * CV stylesheet for pandoc + weasyprint, after moderncv "classic".
+ * Layout: fixed date column on the left, content column on the right.
+ * Based on the CSS by Christophe-Marie Duquesne (CC BY-SA 3.0).
  */
 
-/* for weasyprint */
+:root {
+    --datecol: 14%;          /* width of the date column            */
+    --gap: 2.5%;             /* space between dates and content     */
+    --barw: 67pt;            /* = widest date ("2026 – present"); update if a wider date appears */
+    --accent: #000000;       /* black accent                        */
+    --text: #000000;
+    --muted: #000000;
+    --rule: #000000;
+}
+
 @page {
-    margin: 20mm 20mm 10mm 20mm; /* top right bottom left */
-}
-/* Whole document */
-body {
-    font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
-    width: 90%;
-    margin: auto;
-    background: #FFFFFF;
-    letter-spacing: 0.025em;
-    line-height: 120%;
-    color: #404040;
-}
-/* Title of the resume */
-h1 {
-    font-size: 55px;
-    text-align:center;
-}
-
-/* Titles of categories */
-h2 {
-    margin-bottom:2px;
-    margin-top:20px;
-}
-
-/* Titles of categories */
-h3 {
-    margin-bottom:2px;
-    margin-top:20px;
-    font-size: 20px;
-}
-
-/* banner, e.g. email, phone, linkedin */
-h4 {
-    color: #404040;
-    background-color: #FFFFFF;
-    text-align: center;
-    font-weight: normal;
-    margin-top: -10px;
-    margin-bottom: 10px;
-}
-
-dt { /*dates*/
-    float: right;
-    margin-top: 10px;
-}
-
-dd {
-    margin-top: 10px;
-    margin-left: 0%;
-}
-
-ul { /*headers in skill seciton*/
-    margin-top: 1px;
-    margin-bottom: 10px;
-}
-
-ul { /*headers in skill seciton*/
-    margin-top: 1px;
-    margin-bottom: 10px;
-}
-
-p {
-    margin-top:0;
-    margin-bottom:2px;
-    margin-left: 0%;
-    text-align: justify;
-}
-
-blockquote {
-    margin-left: 0%;
-    margin-right: 0%;
-    margin-top:0;
-    margin-bottom:7px;
-    text-align: center;
-}
-
-code {
-    font-size: 13px;    
-    letter-spacing: 0.01em;
-}
-
-/* Links */
-a {
-    text-decoration: none;
-    color: #0645AD;
-    target="_blank";
-}
-a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
-}
-
-/* Horizontal separators */
-hr {
-    color: #A6A6A6;
-}
-
-/* For pdf */
-@media print {
-    pre > code.sourceCode { white-space: pre-wrap; }
-    body {
+    size: A4;
+    margin: 16mm 16mm 14mm 16mm;
+    @bottom-right {
+        content: counter(page) "/" counter(pages);
         font-family: Arial, Helvetica, sans-serif;
-        font-size:13px;
-        width: 98.5%;
-        background: #FFFFFF;
-        color: #404040;
-    }
-    h1 {
-        font-size: 40px;
-        margin-bottom:10px;
-        margin-top:-50px;
-    }
-    h3 {
-        font-size:14px;
+        font-size: 9pt;
+        color: #000000;
     }
 }
 
-/* For desktop: */
-@media screen and (min-width: 768px) {
-    body {
-	    font-family: Arial, Helvetica, sans-serif; /*Helvetica, Arial, sans-serif;*/
-	    font-size: 20px;
-	    width: 50%;
-	    margin: auto;
-	    background: #FFFFFF;
-	    padding: 20px 20px 20px 20px;
-	    color: #404040;
-    }
-    code {
-        font-size: 20px;    
-        letter-spacing: 0.01em;
-    }
+/* ---------- Base ---------- */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    line-height: 1.35;
+    color: var(--text);
+    background: #FFFFFF;
+    width: 100%;
+    margin: 0;
 }
 
+a { color: var(--accent); text-decoration: none; }
+
+p { margin: 0 0 3pt 0; text-align: left; }
+ul, ol { margin: 2pt 0 4pt 0; padding-left: 14pt; }
+li { margin: 0 0 1.5pt 0; }
+
+/* ---------- Header ---------- */
+h1 {
+    font-size: 26pt;
+    font-weight: normal;
+    color: var(--text);
+    margin: 0 0 2pt 0;
+    text-align: left;
+}
+h4 {                        /* contact banner */
+    font-size: 9.5pt;
+    font-weight: normal;
+    color: var(--muted);
+    margin: 0 0 10pt 0;
+    text-align: left;
+}
+h1 + p { display: none; }   /* the stray "\" line under the name */
+
+/* Summary paragraph spans full width */
+h4 + p {
+    margin: 0 0 4pt 0;
+    font-style: italic;
+}
+
+/* ---------- Section headings: rule in date column, title in content column ---------- */
+h2 {
+    position: relative;
+    font-size: 13pt;
+    font-weight: normal;
+    color: var(--accent);
+    margin: 14pt 0 5pt 0;
+    padding-left: calc(var(--datecol) + var(--gap));
+    page-break-after: avoid;
+}
+h2::before {
+    content: "";
+    position: absolute;
+    left: calc(var(--datecol) - var(--barw));
+    top: 0.5em;
+    width: var(--barw);
+    height: 5pt;
+    background: var(--accent);
+}
+h2 + hr { display: none; }  /* "---" under each heading is replaced by the bar */
+
+/* ---------- Dated entries (pandoc definition lists) ---------- */
+dl { margin: 0; }
+dl::after { content: ""; display: block; clear: both; }
+
+dt {
+    display: block;
+    height: 0;               /* zero height: date overlaps its entry's first line */
+    overflow: visible;
+    width: var(--datecol);
+    margin: 0;
+    padding-top: 0;
+    position: relative;
+    top: 3pt;                /* matches dd padding-top so dates align with titles */
+    text-align: right;
+    color: var(--muted);
+    white-space: nowrap;
+}
+dd {
+    margin: 0 0 0 calc(var(--datecol) + var(--gap));
+    padding-top: 3pt;
+}
+dt { page-break-after: avoid; break-after: avoid; }
+dd > p:first-child { page-break-after: avoid; break-after: avoid; }
+li { page-break-inside: avoid; break-inside: avoid; }
+dd::after { content: ""; display: block; clear: both; }
+dd p { margin-bottom: 1pt; }
+dd ul { margin-top: 1pt; }
+dd em.sub { color: var(--muted); }
+
+/* ---------- Undated content sits in the content column ---------- */
+body > p,
+body > ul,
+body > ol,
+body > table,
+body > div {
+    margin-left: calc(var(--datecol) + var(--gap));
+}
+body > ul, body > ol {
+    padding-left: 14pt;
+    margin-left: calc(var(--datecol) + var(--gap));
+}
+body > h4 + p { margin-left: 0; }          /* summary: full width */
+
+/* Sub-headings written as **bold** paragraphs: space above, keep with list */
+body > ul + p,
+body > ol + p,
+body > table + p { margin-top: 6pt; }
+body > p { page-break-after: avoid; }
+
+/* Publications: native numbering (respects pandoc's start=) */
+ol { list-style: decimal; padding-left: 18pt; }
+ol li::marker { color: var(--muted); }
+
+/* ---------- Table ---------- */
+table {
+    border-collapse: collapse;
+    width: calc(100% - var(--datecol) - var(--gap));
+    font-size: 9pt;
+    margin-top: 3pt;
+    margin-bottom: 4pt;
+    page-break-inside: avoid;
+}
+th, td {
+    text-align: left;
+    vertical-align: top;
+    padding: 2pt 4pt;
+    border-bottom: 0.5pt solid var(--rule);
+}
+th { color: var(--accent); font-weight: bold; border-bottom: 1pt solid var(--accent); }
+
+/* ---------- Footer line ---------- */
+hr { border: 0; border-top: 0.5pt solid var(--rule); margin: 12pt 0 4pt 0; }
+body > p:last-of-type {
+    margin-left: 0;
+    text-align: center;
+    font-size: 9pt;
+    color: var(--muted);
+}
+
+/* ---------- Screen (web page) ---------- */
+@media screen {
+    body { max-width: 860px; margin: 24px auto; padding: 0 16px; font-size: 15px; }
+}
+@media screen and (max-width: 640px) {
+    :root { --datecol: 0%; --gap: 0%; }
+    dt { float: none; text-align: left; padding-top: 8px; }
+    h2::before { display: none; }
+}
